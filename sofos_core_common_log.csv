@@ -1,0 +1,981 @@
+id,timestamp,usuario_id,role,operacion,status
+75c2d793-ac60-47d8-931b-341c507df38b,2025-07-21 14:23:22.533,DEVELOPER,admin,Sincronización Global iniciada,Information
+aba44be0-7310-40d2-ade8-d42eeb2dc041,2025-07-21 14:25:27.873,DEVELOPER,admin,Sincronización Global finalizada,Success
+7af52a00-a38c-4a8c-ae80-60321a26b21b,2025-07-22 16:24:26.688,NMATAMOROS,admin,Sincronización Global iniciada,Information
+cbc0c72c-4b3a-4fab-8d25-5378ef0afca5,2025-07-22 16:28:03.587,NMATAMOROS,admin,Sincronización Global finalizada,Success
+54af1879-707a-409d-9d2c-5da98f04efbd,2025-07-22 16:28:19.061,NMATAMOROS,admin,Recalculo Global iniciada,Information
+db3ae588-245f-4ea0-acef-e63cce566c09,2025-07-22 16:38:24.404,DBULNES,admin,Sincronización Global iniciada,Information
+fccffb36-3ec6-4361-ae72-350677de2dcb,2025-07-22 16:39:05.218,NMATAMOROS,admin,Recalculo Global iniciada,Information
+6c98258d-b08e-4b8f-843e-bd2f6de8ddcc,2025-07-22 16:39:05.397,NMATAMOROS,admin,Recalculo Global finalizada,Success
+a3850458-163a-4ff5-a4d3-9d3bf174ce52,2025-07-22 16:41:39.468,DBULNES,admin,Sincronización Global finalizada,Success
+55abac6a-ff52-4dd5-b0f5-50a36bc4b89f,2025-07-22 16:51:39.569,NMATAMOROS,admin,Recalculo Global finalizada,Success
+4315e9f7-e858-47b2-b8a0-23b1f80151b0,2025-07-22 18:00:58.666,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+18868e8e-6879-41f6-949b-0c1eb57c6b51,2025-07-22 18:00:59.104,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+968051fe-a760-4206-96c7-819d1446a752,2025-07-22 22:06:11.24,NMATAMOROS,admin,Traslado Masivo iniciada,Information
+6a094bc2-0885-4d55-853f-9095d7be071e,2025-07-22 22:12:52.42,NMATAMOROS,admin,Traslado Masivo finalizada,Success
+3eb4244c-0baa-42a7-aaaa-093373a240b2,2025-07-23 15:29:11.247,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+a1ee1b2e-d246-4f05-a940-737dc6adb0a3,2025-07-23 15:29:11.472,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+242e35c7-395f-4f8a-bed8-824104cb4f80,2025-07-23 15:45:34.448,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+808c0a9c-87c9-468e-938c-a232524a317b,2025-07-23 21:27:12.903,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+0aac772f-0e2f-4208-95a2-b2beeea0142f,2025-07-23 21:27:13.138,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+79435f0d-a921-4168-a0fd-78f9f91fc7b0,2025-07-23 21:27:20.447,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+047839bb-e949-4878-ba8c-a6c803cbfc2d,2025-07-23 21:27:20.646,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+75373143-e247-4a0e-97e9-6c42bfd39cf2,2025-07-23 21:28:17.887,NMATAMOROS,admin,Cálculo de Prorrateo iniciada,Information
+387ad0b7-a3b4-4d8e-ac34-af036962c106,2025-07-23 21:28:21.803,NMATAMOROS,admin,Cálculo de Prorrateo finalizada,Success
+e405ddfd-fa9e-4b01-88c8-d3c0974da5bc,2025-07-23 21:33:41.787,NMATAMOROS,admin,Cálculo de Prorrateo iniciada,Information
+946c389a-d8df-4b3a-89c0-04add7a3cba0,2025-07-23 21:33:45.799,NMATAMOROS,admin,Cálculo de Prorrateo finalizada,Success
+a2c22f88-637d-4ca5-955d-81c88a31b29b,2025-07-23 21:43:30.919,NMATAMOROS,admin,Cálculo de Prorrateo iniciada,Information
+48ccc72e-3502-4551-93b3-b949056f6ae2,2025-07-23 21:43:34.951,NMATAMOROS,admin,Cálculo de Prorrateo finalizada,Success
+b0edf1bd-9c1c-4b92-a93d-5da3220ca1ce,2025-07-23 22:00:54.712,NMATAMOROS,admin,Cálculo de Prorrateo iniciada,Information
+03d7d1df-0800-43fd-a450-3a73c59f339d,2025-07-23 22:00:58.812,NMATAMOROS,admin,Cálculo de Prorrateo finalizada,Success
+0a44df8a-6765-4cdb-97e3-d3c99fddfce6,2025-07-23 22:37:49.635,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3a71cb7b-4fc9-46d3-a0a2-49d5290645cd,2025-07-23 22:45:05.893,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+091e3496-9284-4c9f-bc15-68691af71fc0,2025-07-23 22:45:29.322,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+47b79203-3dcc-4fa3-9ccd-0e493838131a,2025-07-24 00:24:05.079,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b8182b3b-79f0-453c-8bcd-7daa5198d11f,2025-07-24 00:34:55.404,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+a61fa1e5-bd20-45e3-b233-e9ec786c7e03,2025-07-24 00:36:23.386,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+26842111-a988-4b30-8c3a-497445f40bdc,2025-07-24 13:55:30.513,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+05adee9d-33bf-471a-98f4-4c6fb2ab8309,2025-07-24 14:17:40.984,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+5015fbad-92da-4775-98ca-67732be6b3cf,2025-07-24 14:21:33.644,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3867cd09-4b95-4940-96e8-c9762e1794ad,2025-07-24 14:25:02.714,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3f9e3e6f-5ad3-47de-a2de-352afea7c854,2025-07-24 14:30:43.525,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+aa666ddf-3e5d-4848-a4f8-b8ec55dd9411,2025-07-24 14:30:43.773,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+6b2bc999-f29c-4180-99fa-051efdf2b997,2025-07-24 14:30:57.673,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+38794f24-c7a0-45fe-a450-6433258eaaff,2025-07-24 15:33:24.263,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+698640a3-e1a0-4ac3-8739-dda0bd5d3325,2025-07-24 15:48:56.536,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+fa7c6cad-2cd6-45b0-8c71-3ab8fc745078,2025-07-24 15:48:56.832,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+4c753f87-d8e1-496a-ad63-923e8cfeba3d,2025-07-24 16:05:51.32,CBERRIOS,admin,Cálculo de Tarifas iniciada,Information
+419988c0-a124-4cee-a407-e94eef90a58a,2025-07-24 16:05:51.577,CBERRIOS,admin,Cálculo de Tarifas finalizada,Success
+300b2ace-977f-46be-9855-4b44d0e555cc,2025-07-24 16:38:55.372,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+39af0a46-8ce7-408c-adf5-460f74508c50,2025-07-24 16:43:42.643,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+aab7fefd-607a-4f63-b4ef-81056ee7d710,2025-07-24 16:55:59.779,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+89b636c5-6c25-41dd-b726-bb24df87ce5b,2025-07-24 16:56:53.468,FUNCIONAL,admin,Amortización de Préstamos iniciada,Information
+c3c70868-a550-40d7-9144-19c55f578dd2,2025-07-24 16:57:39.243,CBERRIOS,admin,Cálculo de Tarifas finalizada,Success
+90ce0f35-51f0-46c4-8b92-17dfe9ef83ce,2025-07-24 16:56:53.536,FUNCIONAL,admin,Amortización de Préstamos finalizada,Success
+0e949d6e-2dd2-4b91-957b-1089a702adee,2025-07-24 16:57:39.01,CBERRIOS,admin,Cálculo de Tarifas iniciada,Information
+bff63895-5714-4249-b446-3cc14c719a8a,2025-07-24 16:58:59.396,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+97acbcf0-bcd8-466a-ab96-a619508a19d6,2025-07-24 17:00:12.972,CBERRIOS,admin,Cálculo de Prorrateo iniciada,Information
+86b0ee14-44c0-470f-ba9e-01c3344ab9e3,2025-07-24 17:00:18.282,CBERRIOS,admin,Cálculo de Prorrateo finalizada,Success
+513fafc0-b0ff-4a53-8331-769fb3587ae1,2025-07-24 17:08:18.716,CBERRIOS,admin,Cálculo de Tarifas iniciada,Information
+846d6247-68a4-4ec9-a21e-ab08065e6eea,2025-07-24 17:08:18.951,CBERRIOS,admin,Cálculo de Tarifas finalizada,Success
+75332829-2ed8-41a0-89b8-ad0ad832403b,2025-07-24 17:10:21.295,CBERRIOS,admin,Cálculo de Tarifas iniciada,Information
+1203613a-2982-4a3c-bfcf-88ef0a57525c,2025-07-24 17:10:21.519,CBERRIOS,admin,Cálculo de Tarifas finalizada,Success
+9bb02676-64c4-4b07-acb2-1cb6edd91950,2025-07-24 17:16:23.925,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+d2903690-a1c5-4c69-8a7f-369273469dee,2025-07-24 17:21:56.736,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+071ab665-0c8c-4c55-a0a5-daac459ead76,2025-07-24 17:49:32.772,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+961276a7-05d0-43cc-ae61-36b401cee24c,2025-07-24 17:55:08.074,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+7d3b53d5-b4cb-4436-84d6-9c10d6372b92,2025-07-24 18:02:17.138,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+c6c1965e-6b95-4c3f-8997-0b8850e475e4,2025-07-24 18:07:55.483,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+fd517778-3afa-4dec-a6f3-081b4f10fd11,2025-07-24 20:23:40.675,CBERRIOS,admin,Cálculo de Tarifas iniciada,Information
+3a7cf389-4e46-4e57-880c-d6cba40fae62,2025-07-24 20:23:41.29,CBERRIOS,admin,Cálculo de Tarifas finalizada,Success
+db83fbfb-1851-4635-be5a-b182fa7901e7,2025-07-24 20:31:01.621,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+5867806d-627a-4214-ba55-f4e224d6a01b,2025-07-24 20:34:50.944,MALVARADO,usuario,Amortización de Préstamos iniciada,Information
+2decfcf6-5313-4a3d-90c5-802e3fc81381,2025-07-24 20:34:51.065,MALVARADO,usuario,Amortización de Préstamos finalizada,Success
+d3159789-7118-447a-87b0-fe875ed69ac7,2025-07-24 20:37:42.934,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+cc56527b-e870-4c74-95a1-861416e8315a,2025-07-24 21:07:09.416,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+c45abc43-a2fe-47dd-b569-d12128f2b47b,2025-07-24 21:13:14.932,MALVARADO,usuario,Amortización de Préstamos iniciada,Information
+1aeb4f6b-1133-4aab-a2dc-fd6fe48febc0,2025-07-24 21:13:15.011,MALVARADO,usuario,Amortización de Préstamos finalizada,Success
+1ba36719-7cf9-495c-b633-0453ce8e50e3,2025-07-24 21:19:59.747,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+4c7df1c4-88b5-45c8-a826-05f89774871c,2025-07-24 21:23:44.701,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+f5538f38-00b3-404b-a38c-cd680d72af65,2025-07-24 21:40:25.114,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+22c8ad93-c770-44b8-aa34-f41dacba3999,2025-07-24 22:08:40.381,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+49b28ac8-742f-4ab3-a9c9-fcfc86bfec5d,2025-07-24 22:22:51.797,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+692ac009-9f5d-45d5-9834-704c7fb7eb01,2025-07-24 22:38:25.162,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+d7e263ab-0fd7-445b-af78-89ea33323b03,2025-07-24 22:42:05.436,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+f40e0a40-265f-4eb6-8805-862b4b992f83,2025-07-24 22:48:55.24,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+058669f3-b8c4-451f-92f5-f3fa332d077c,2025-07-24 22:51:52.575,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+41f55564-ee4b-4749-b4c9-0e4f448eb524,2025-07-24 23:37:36.938,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+b22a8c65-70ff-42a9-bb77-45e12c596cb0,2025-07-24 23:53:29.93,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+58954c46-5671-47fc-992b-092998515f15,2025-07-25 16:53:49.67,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+bef560c5-58ee-43fd-a5bb-3756d9b50d66,2025-07-25 16:53:50.305,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+87e5dcd8-794b-416d-881a-58835c439666,2025-07-25 16:59:02.484,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+19c2a146-2075-41ea-b79a-9b5eebd4c518,2025-07-25 16:59:03.112,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+8454a400-4078-46cc-af6a-b0ae7d219db4,2025-07-25 17:01:44.866,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+d9f171c0-90d3-404b-bb18-b3b9891ffac0,2025-07-25 17:01:45.501,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+70e229d4-7dbc-4f3c-b3ef-efc350f9d784,2025-07-25 17:07:03.477,DGOMEZADM,admin,Cálculo de Tarifas iniciada,Information
+3ac724ba-f883-4497-a7af-782a7d467bfb,2025-07-25 17:07:04.146,DGOMEZADM,admin,Cálculo de Tarifas finalizada,Success
+42753978-9f7e-4a9d-b9a8-15292b3e23e2,2025-07-25 17:14:10.97,DGOMEZADM,admin,Cálculo de Costeo iniciada,Information
+ff699ec6-fce0-4566-80e2-269f9562bc6f,2025-07-25 18:03:36.939,DGOMEZADM,admin,Cálculo de Costeo finalizada,Success
+ae21be22-2922-46a6-b909-166e53a6547f,2025-07-25 21:25:15.226,DGOMEZADM,admin,Cálculo de Costeo iniciada,Information
+4e1b5b13-b4c2-448e-8693-421a620eb8e4,2025-07-25 22:13:30.66,DGOMEZADM,admin,Cálculo de Costeo finalizada,Success
+33b4aa04-a8e8-4b04-b029-cf6880587d59,2025-07-28 15:58:53.102,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+f370c169-7154-473e-a132-6d43883acacb,2025-07-28 16:43:20.695,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+ee1bb297-397e-4940-aa9b-3ee026fa6d1d,2025-07-28 16:43:22.284,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+69a3426e-4e50-4194-bc2a-76e0cdd54e57,2025-07-28 16:48:39.194,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+213b549b-3a5e-4e94-ad94-4c35d3fa32b3,2025-07-28 17:44:51.316,NMATAMOROS,admin,Traslado Automático iniciada,Information
+9449a046-57aa-431c-8b23-92bf5842119b,2025-07-28 17:46:01.715,NMATAMOROS,admin,Traslado Automático finalizada,Success
+6f3bdc4c-b6be-428c-b1d1-be70e35ebe22,2025-07-28 17:49:06.346,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+242e05f0-630b-45e5-b9ba-de22d5b730d2,2025-07-28 17:50:05.065,NMATAMOROS,admin,Traslado Forzado iniciada,Information
+9b430895-cbdc-4224-8e97-376ee0bfa20e,2025-07-28 17:52:06.121,NMATAMOROS,admin,Traslado Forzado finalizada,Success
+5778c6a6-e5d4-4c2d-899d-22ba67447a4e,2025-07-28 17:52:57.642,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+0cb30c5a-b64c-4891-8a07-f7660e497ff7,2025-07-28 17:53:53.285,NMATAMOROS,admin,Traslado Manual iniciada,Information
+31e561bb-0e36-4a06-903c-cca5344892fb,2025-07-28 17:55:01.899,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0c2d491c-501c-4932-ae25-d52ed4c306dc,2025-07-28 17:56:17.679,NMATAMOROS,admin,Traslado Manual finalizada,Success
+7dab549b-c8ad-46de-8176-a4ed3769d497,2025-07-28 17:57:29.725,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+47a6a6fa-4230-4b36-9570-3557e236179c,2025-07-28 18:02:03.248,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+9d48837e-4d2b-4b2f-9a55-5293e8b41310,2025-07-28 18:05:27.057,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3624e868-c358-4fb4-bc9a-7c5e46252912,2025-07-28 19:09:25.454,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+9502db8c-eb0c-4272-b065-375eb06f64ad,2025-07-28 19:09:26.083,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+4c80dbed-d58e-4613-82b4-82f5ea7bc1be,2025-07-28 19:21:16.044,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+7529d34c-c55d-41e3-beff-5fae49409790,2025-07-28 19:21:16.654,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+1c5d39de-1943-4701-921f-632070b917ea,2025-07-28 21:03:15.881,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+7b318b84-8b28-4041-acba-bd8b34a0f67e,2025-07-28 21:36:55.158,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+30e256bb-0387-4e01-9c9b-30aece8fd71b,2025-07-28 21:36:55.847,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+f25fd80c-859a-4bfc-b1ed-c3207f79ea79,2025-07-28 21:57:35.347,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+82ce46bf-2dfe-497c-98e7-76013dda7806,2025-07-29 15:33:59.198,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+acdc8d03-402e-4b6c-ad3d-b1682f210fcc,2025-07-29 15:34:03.934,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+0ea782e0-90fd-48a6-8c70-a58db0bb9b94,2025-07-29 15:34:17.441,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+92268ae8-13cb-4f22-a37e-2ce38d45309c,2025-07-29 15:34:30.39,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+5ee7e87b-07e8-442e-9f53-82312edb9241,2025-07-29 15:34:59.945,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+10bd5dde-0564-461c-a896-7c0669103a23,2025-07-29 15:35:14.52,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6cf696e1-54c3-44c3-a4e8-c44a2000fd8c,2025-07-29 15:35:17.188,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+c4444d8a-d39b-48d4-bb4f-abace97ec0d5,2025-07-29 15:36:05.691,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+ab2cfe4c-574a-4b38-9070-f5312bfb4c7c,2025-07-29 15:36:25.293,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+6a163b7d-2d30-4fcb-8d28-749f6543fe54,2025-07-29 15:43:32.259,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+507ce08d-2577-44b8-8162-db46a086da61,2025-07-29 15:56:21.005,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1699e1ed-d4aa-4266-9981-fc920f39feb1,2025-07-29 15:57:27.747,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ae522dd1-c21a-46f0-a1bd-579c9352c77a,2025-07-29 15:58:52.363,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+c751556b-7cff-4b86-afbd-145a79fcb748,2025-07-29 15:59:58.812,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+179a96a5-4020-4984-9a34-c561c2a59eaf,2025-07-29 16:10:59.399,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+8382fc1b-29ad-4388-9dfd-8e5d4b2b9e3f,2025-07-29 16:12:05.942,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+fa6729b6-d8f8-4cce-ba70-042ae72c6c30,2025-07-29 16:12:58.676,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+50d09afc-92e9-4ebc-8a68-24a2fe823105,2025-07-29 16:13:55.777,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+292160ee-e973-45fe-8906-9f5fb5259628,2025-07-29 16:14:06.068,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+3bc957d0-62b2-41d8-81d0-90319f0dd84b,2025-07-29 16:16:40.328,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+3bae6e9b-0123-40a9-8de0-0dc5b053e67b,2025-07-29 16:25:20.525,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+cb9dd61b-1a25-48bb-b750-db848b1e6170,2025-07-29 16:26:05.99,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+095f0e4e-122f-4d87-980d-9a0a36fab915,2025-07-29 16:53:24.234,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+853fbd79-9d52-4ce2-be4d-212cefdccc85,2025-07-29 16:53:41.602,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+dcfa2f60-d0dd-4d0d-b741-af69396d35d2,2025-07-29 16:53:43.614,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+a1ab5ac7-aafd-4713-9a8c-e369ce98ffef,2025-07-29 16:55:01.867,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a126e550-e248-4b1d-b9bf-924788b9ef6a,2025-07-29 16:57:01.635,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+3adc6047-4b29-4f8d-a350-5b5f978b90fb,2025-07-29 17:00:35.455,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+249f88b3-98b8-4c14-b841-45a9fa762482,2025-07-29 17:02:35.066,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+1d5ffbe9-e65a-4f99-96d0-c5cdd499f9d1,2025-07-29 17:06:02.719,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+f024fc40-228b-47a0-90c4-702782c6a8cd,2025-07-29 20:13:28.589,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+d624df79-83d0-44cc-a22f-1fc5e2f325a3,2025-07-29 20:21:40.812,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+475b1e35-70cd-48d1-95db-81d0b5078502,2025-07-29 20:37:10.409,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+417148ae-c491-4744-810c-9bce3efcedc9,2025-07-29 20:45:02.394,CBERRIOS,admin,Recalculo Traslado iniciada,Information
+123df716-d341-4a46-9c1e-ea85979a4815,2025-07-29 20:45:19.97,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+7a223e97-9abb-4a91-a386-a211ed0723c4,2025-07-29 20:50:50.611,CBERRIOS,admin,Recalculo Traslado finalizada,Success
+bde5712e-4d2c-469f-a223-8ce04c860f69,2025-07-29 21:03:26.787,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+e1451060-9867-4ec4-9bcf-910472c84635,2025-07-29 21:04:01.106,CBERRIOS,admin,Sincronización de Inventario iniciada,Information
+80022fca-a6a5-40b3-a86b-d6d3d607aab7,2025-07-29 21:05:12.663,CBERRIOS,admin,Sincronización de Inventario finalizada,Success
+7083bffa-8b53-4659-abee-573eaa7cb6b3,2025-07-29 21:44:44.969,CBERRIOS,admin,Sincronización de Inventario finalizada,Success
+ee7aabca-e4c9-4dc3-8b60-cf02e71c46ee,2025-07-29 21:11:54.981,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+3101a128-0f2c-4a28-ac8d-5168b56d7a74,2025-07-29 21:24:46.799,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+415af7c5-9960-464d-b945-809ea8446a71,2025-07-29 22:08:46.747,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+505eb0c1-7b83-4efb-ab99-755cc39584f8,2025-07-29 21:16:31.821,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+61ae7c90-0a33-45e7-a668-e0b329bc8551,2025-07-29 21:22:45.255,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0c0b88f9-0a5b-484c-92a2-5da2cdfe4f85,2025-07-29 21:31:32.497,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e626e490-3e0a-4ad7-8ec7-ca3b2f8425aa,2025-07-29 21:43:34.03,CBERRIOS,admin,Sincronización de Inventario iniciada,Information
+e65084e9-3bfe-4003-b8f8-4f8abd9e332e,2025-07-29 22:07:42.709,MALVARADO,usuario,Amortización de Préstamos iniciada,Information
+99d4701a-c7c6-423f-bfb3-4aaae5186652,2025-07-29 22:07:42.867,MALVARADO,usuario,Amortización de Préstamos finalizada,Success
+2f2ce896-91b1-4540-bffb-5c10758715e3,2025-07-29 22:08:45.625,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+45b9eb95-9879-4a39-bc1b-746dd608db95,2025-07-29 22:09:44.223,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+94b00a0c-f2bc-48a1-ad83-c3dc7e0a3933,2025-07-29 22:17:59.439,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+da937c4e-7bc8-486e-8d65-ab9c19a2120c,2025-07-30 15:00:16.638,NMATAMOROS,admin,Traslado Manual iniciada,Information
+2d3e229c-b204-4d5b-b417-a5f163b36e08,2025-07-30 15:00:26.992,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+45b316a8-2284-4e6a-8fe6-a6845a7bbace,2025-07-30 15:01:29.425,NMATAMOROS,admin,Traslado Manual finalizada,Success
+33ed4f3d-35fc-4477-a680-fdc375eae157,2025-07-30 15:08:44.125,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8bd09880-951e-4b39-a889-90c9211462f3,2025-07-30 15:49:22.432,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+dc823388-df9c-4748-85ba-ee11941a8d02,2025-07-30 15:59:22.747,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+eb7f9266-6c59-485f-a08b-f3fb830963dd,2025-07-30 15:59:36.87,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+24ba39ad-f51f-47f9-8d84-3f3df0b52b00,2025-07-30 16:05:18.881,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+392f685b-8a3a-4cfa-aea6-965c188e0e16,2025-07-30 16:08:00.086,CBERRIOS,admin,Cálculo de Costeo iniciada,Information
+6fe81383-2c65-4045-abc7-7e65ed475ed1,2025-07-30 16:08:32.222,CBERRIOS,admin,Cálculo de Costeo finalizada,Success
+5ec4c7b5-9859-48f3-9e54-d7acf74405aa,2025-07-30 16:10:51.365,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+f20431b8-269f-4b8c-8caa-631dffb83474,2025-07-30 16:13:04.573,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+f506a172-0f02-4a1f-9c4e-f1fa56d8a33e,2025-07-30 16:21:23.471,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d7dc474a-8230-411d-a51c-24c1bc50c686,2025-07-30 16:22:39.134,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+c6ef7481-c2d5-4ece-b95a-078b851583bb,2025-07-30 16:33:07.87,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a5bfbed5-2675-48a0-8f5a-434d0518af69,2025-07-30 16:34:18.569,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+4d66feb5-5808-48ea-bb66-4f812ffc9242,2025-07-30 16:34:23.001,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+0d1b75db-f741-4577-9822-5ffd74723e50,2025-07-30 16:34:40.501,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+5cccbfd8-05cf-4787-823e-a03b762fdba4,2025-07-30 16:35:20.041,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+9ebfd4cf-4a15-4c62-a764-82f9aa081d64,2025-07-30 16:43:08.189,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d5d50cb3-484c-4d89-ba21-3d79a396c54d,2025-07-30 16:44:11.745,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+10effeab-185b-4860-8003-829a6d346a00,2025-07-30 16:52:07.716,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b1a809a9-be42-4ade-b286-8bda0e02c249,2025-07-30 17:28:08.742,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+7211cb0b-1d77-474d-a4d6-6812762b091d,2025-07-30 17:29:19.22,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+1755bb29-a958-425f-8b70-514f1227abfe,2025-07-30 17:30:49.301,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+ae323743-4f91-4fa0-aa06-b95297f29c2f,2025-07-30 17:37:55.641,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+d076083d-eceb-40a2-b8fd-48a922ff240c,2025-07-30 17:39:46.454,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+061e17f5-4353-4efa-848b-f1edfdeddb4a,2025-07-30 17:40:15.398,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+252934fc-ba81-4834-be26-2cb0642ce99f,2025-07-30 17:41:01.439,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+8f3ae10e-8cc4-491a-ba11-446b7a8067ab,2025-07-30 17:42:03.536,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+bba0891a-2c42-4a27-881c-2bd58faa2a55,2025-07-30 17:44:36.264,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+211ef722-1f0e-4caf-b21d-b966516d989f,2025-07-30 17:45:23.166,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+60dd3679-5f02-402d-bda7-eebb6c82ea68,2025-07-30 17:45:51.043,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+819f34a2-0afc-4afd-a468-23af4e33fa0a,2025-07-30 17:46:57.167,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+33d3fe1b-1779-4e14-8e40-e751a5fd4a6f,2025-07-30 17:50:31.056,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b0c9acbd-4a18-4138-b3fd-380878ad9f10,2025-07-30 17:53:51.531,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+a24adab1-ce55-4e16-9772-0a43b2db19f6,2025-07-30 17:54:04.111,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3f303db8-d162-4dcc-a1c3-28330ffc6e1f,2025-07-30 17:54:08.65,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+42b21d0b-8c1e-4dfc-bf4a-6b713348e259,2025-07-30 20:13:21.72,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+b60658b0-99eb-4be2-94a2-922c75fdad2f,2025-07-30 20:13:38.958,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+f9411ecb-ec42-4e4e-abbd-f32c3a6784a9,2025-07-30 20:21:36.087,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+00e8fda1-4007-4efd-805e-70727557961f,2025-07-30 20:21:52.952,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+be172ad1-9c22-4f0e-abe3-9de80d5c36be,2025-07-30 20:22:15.308,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+02e19016-d64b-4eb3-a214-840047e3661a,2025-07-30 20:30:50.563,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+16c003e0-81e2-4c0a-90d3-c60921167986,2025-07-30 20:32:10.087,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6117e541-4972-4046-b84d-e6bfad81ba56,2025-07-30 20:33:20.723,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+a4ec7a0d-e993-4332-bcd3-54cb20b287ef,2025-07-30 20:34:34.318,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+73c5a953-e664-45ab-94e9-5a59974b2702,2025-07-30 20:35:44.904,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+eb2c9dbd-210b-42a0-80a7-03050c709294,2025-07-30 20:39:26.666,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+990355ad-2a2b-4a80-ae5b-34b99db0ce80,2025-07-30 20:40:37.557,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+bfb85e0c-2627-43d3-85b1-4fb552a15b48,2025-07-30 20:41:11.28,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+79dc6978-4a47-4a35-95b0-b8af66759877,2025-07-30 20:41:28.612,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+67a8b63d-364a-4aa8-9cb8-bf1ea5f940b8,2025-07-30 20:41:55.193,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+6312a6eb-3c2b-43e0-9697-d7817b969568,2025-07-30 20:46:19.357,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+e4941416-6478-423d-a7fa-d332c654a092,2025-07-30 20:46:36.372,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+01e19378-c27c-470e-835f-203a20a389c5,2025-07-30 20:46:55.247,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a5d21e3c-4afd-4558-b040-90216ac6a1f5,2025-07-30 20:47:19.9,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+fa8bc3d1-9410-408e-ba5d-e5896c433abd,2025-07-30 20:47:30.822,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+63f202b1-bd06-41a0-a008-9f283f8b3b5e,2025-07-30 20:47:52.692,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+e88c391f-9f2b-4f1f-824f-188c70dbdb2c,2025-07-30 20:48:15.888,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b0bc8b2b-5970-47c3-9efe-0e8550512b77,2025-07-30 20:50:57.169,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+22a2438f-bdfd-458c-bad1-8cb7e938fba8,2025-07-30 20:55:28.352,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+e5d95a9d-5c4d-4076-92a0-ba845f36d1bd,2025-07-30 21:03:22.653,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+15e59980-562c-4f65-a8f3-9bb549fb6d7f,2025-07-30 21:03:30.83,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+6ea93c5a-468b-4f88-a3db-7f634541b8f7,2025-07-30 21:03:48.852,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+ff2ad385-38b3-48c5-a97e-f1ce97fd34a8,2025-07-30 21:11:23.626,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+c9246199-f8cc-4fd4-9866-ada14811f3ca,2025-07-30 21:11:40.701,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+1cdc3955-8663-402f-b369-8b47d16a45c2,2025-07-30 21:12:55.19,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+e6e6e9eb-a246-428b-af5c-7a018a1beee1,2025-07-30 21:13:12.122,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+37a4796c-1dbf-4812-bdf0-a06e3f60e936,2025-07-30 21:13:43.584,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+e4fffb86-ef6f-46fc-9403-ce62e431c6b1,2025-07-30 21:14:00.323,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+823dc2e3-e0b6-4644-8388-7757f18445ea,2025-07-30 21:16:47.078,DGOMEZADM,admin,Recalculo Traslado iniciada,Information
+226e13f9-0376-4819-a854-187889d0f378,2025-07-30 21:16:57.021,DGOMEZADM,admin,Cálculo de Costeo iniciada,Information
+fae07b1d-ee12-4265-8e5f-3b3515b55da9,2025-07-30 21:18:07.137,DGOMEZADM,admin,Sincronización de Inventario iniciada,Information
+44336446-2f96-4200-97b2-b7b27847fae7,2025-07-30 21:18:32.842,DGOMEZADM,admin,Sincronización de Inventario iniciada,Information
+55da7715-8fae-4121-9ce3-06a451f6715a,2025-07-30 21:20:47.67,DGOMEZADM,admin,Sincronización de Inventario finalizada,Success
+95e5dea5-7131-424b-811f-896859c4018e,2025-07-30 21:21:10.039,DGOMEZADM,admin,Sincronización de Inventario finalizada,Success
+7e5acbfc-7f04-4839-bcad-2ac97ce4aadc,2025-07-30 21:23:06.883,DGOMEZADM,admin,Recalculo de Consumos iniciada,Information
+0f0683e3-e5e0-4248-8ba7-58866b3b4f6c,2025-07-30 21:23:24.149,DGOMEZADM,admin,Recalculo de Consumos finalizada,Success
+ea8074ff-fcd1-4abf-947a-57717acede71,2025-07-30 21:25:11.79,DGOMEZADM,admin,Recalculo Traslado finalizada,Success
+06bce1d9-3e68-4fbc-af34-64659b2bdb74,2025-07-30 21:28:41.811,DGOMEZADM,admin,Cálculo de Costeo finalizada,Success
+9893dbb2-da27-43f6-b62e-1b91a3969605,2025-07-30 21:49:10.946,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+babf4bda-1f6a-4702-9b75-ab71afcefede,2025-07-30 21:49:28.118,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+f3f95f11-1562-4626-9142-2b3b19023721,2025-07-30 22:03:04.986,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+7390dae8-b9c5-48a7-8f8d-43e299976e84,2025-07-30 22:17:55.035,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+50d8e355-bcc6-4b2f-bae9-694970a7a214,2025-07-30 22:19:40.013,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+120581f4-7034-4066-a7bd-89ec059df366,2025-07-30 22:26:29.446,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+19fb1315-0525-4c95-aa59-a387140fa5d6,2025-07-30 22:28:32.748,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+63407d7a-ddbf-4ed4-9228-7df7a08cf0fe,2025-07-30 22:30:54.077,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+fe0b2047-bf51-459b-bfbf-1766d6a79eb7,2025-07-30 22:32:06.046,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+3627d833-bda4-4c93-9591-620a62dd3e33,2025-07-30 22:35:55.769,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+c2d35d23-434f-4d92-8090-c47de4e7bff3,2025-07-30 22:37:56.2,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+38aaba26-48f3-489c-b599-ecc59228673a,2025-07-30 22:41:23.955,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+e5295cf8-1547-4336-bb54-b1dee457daaa,2025-07-30 22:41:42.011,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+d8e1dc4d-e521-4ffe-9561-67a002d783cb,2025-07-30 22:46:17.283,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+82810093-e7be-4b31-b5cc-978eec4cc650,2025-07-30 22:49:18.556,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+eb062ed9-0745-4be4-b3f7-4d6b65537543,2025-07-30 22:50:40.537,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+00da37b7-0480-4516-8822-eb9020032b8e,2025-07-30 22:50:42.829,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+75a452dd-f53c-4f50-bcca-193bf0160fb1,2025-07-30 23:05:42.424,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+2d54d948-9753-42a4-a14d-dfa70c39d4ab,2025-07-30 23:14:26.684,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+39af8ab1-9ca1-4bd0-a303-268bcf86df5d,2025-07-31 00:12:29.691,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d24883c3-2610-4d90-8020-cf992dabd236,2025-07-31 14:24:27.97,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+f49b1f90-27aa-478a-8d01-6968833f824d,2025-07-31 14:24:29.06,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+4cc55244-8fbb-40f7-8d2b-ed29671b3e19,2025-07-31 14:24:47.278,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+608dae9f-cbe5-43a9-9d64-8a719db51ba6,2025-07-31 14:34:11.119,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+7f0fb509-da15-43b2-8cd1-8ed93cf19987,2025-07-31 16:27:19.482,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+729b5dba-002f-4c6c-94d6-57fbeeeca7f8,2025-07-31 16:28:30.068,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+5667e3fa-d9f4-42aa-9155-2a67b903a209,2025-07-31 16:29:24.043,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+25b9ecab-1df4-455d-b473-3a6090a3361c,2025-07-31 16:29:24.688,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+efa88b17-fb87-4102-8670-b66c2fd6a57e,2025-07-31 16:29:35.765,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+66e5bd78-da69-4c76-966c-0217214837c2,2025-07-31 16:29:52.611,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+55af8b93-75c7-49f3-9603-be4aa3f5a1cb,2025-07-31 16:29:53.768,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+0213e34c-5537-430f-8639-29427ec2aaa8,2025-07-31 16:30:00.675,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+94b26941-98d5-4d5d-bb42-896cef72edd8,2025-07-31 16:31:05.412,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+3079eb4b-d427-415b-9290-5d542436da17,2025-07-31 16:39:29.565,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3b26b1f0-d740-414f-a80b-31ab23550a09,2025-07-31 16:41:08.392,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+897bfe39-dd12-4ca2-98af-d72540fcec3b,2025-07-31 16:41:07.299,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+8e382cfb-aa85-4fe2-b58f-91d32a397cd3,2025-08-25 15:37:15.444,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+ab4d37cb-614f-4db9-8abe-e15e39ab989b,2025-07-31 17:19:39.074,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+514d77e6-1202-474f-bb59-01d7e8f5c613,2025-07-31 17:51:20.966,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+20f9d372-ef97-46ed-9a0b-83b1705046e1,2025-07-31 16:41:27.574,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+1e9fc441-fe5f-4045-a8f1-46eb52dbbc2a,2025-07-31 17:04:10.748,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+7af8354d-a74c-497b-91a0-444d3a7cf12b,2025-07-31 17:19:28.94,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+86a42654-2cc5-4b9e-873e-618ac9f29d88,2025-07-31 17:51:33.033,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+25b5c749-74a7-43e7-985c-65a48993d805,2025-07-31 17:51:39.547,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+0bf673a0-6c48-49b1-b674-2658568ef81f,2025-07-31 16:44:30.265,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+318f5718-c3a1-4b15-9aa4-ec12c7d4aad7,2025-07-31 17:19:26.331,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+4b21e0e2-fc6c-4639-85ff-a90728cd0e21,2025-07-31 17:27:12.14,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+66990508-7843-4310-8ce9-747996860585,2025-07-31 17:27:46.078,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+647a570c-54ee-4518-afc9-e448cd21258b,2025-07-31 17:43:34.731,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+2dc49691-c9f8-4f3a-a3d9-4efd48d29939,2025-07-31 16:46:28.258,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+672de8cf-bde8-4c67-ab7d-decb7943da2e,2025-07-31 17:28:15.697,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+7c2340de-3f10-49a6-8182-099893a27d12,2025-07-31 17:28:24.639,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5f8eab38-dd53-435a-9180-3300a233f4e5,2025-07-31 16:52:22.418,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+eb7840ba-f9b0-42ec-b348-07809ed3eb08,2025-07-31 17:02:59.127,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+7c20660e-a6bc-4e05-af73-8a2d878106a9,2025-07-31 17:07:23.528,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+ad37b764-1696-4340-ad07-f2c39862e545,2025-07-31 17:08:35.612,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+48b2cffa-6e79-4a0d-bdec-2448ef0db220,2025-07-31 17:22:36.094,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f94366e4-7785-4ba2-82b3-90380232420c,2025-07-31 17:19:10.555,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+2580e421-5691-42d9-8e60-73da37fd133d,2025-07-31 17:27:28.208,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+0b1cbe61-5471-4ec8-aa61-c6924167ef12,2025-07-31 17:31:27.985,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9c5e16a1-c232-498d-a48d-740d211c4101,2025-07-31 17:33:49.517,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+78ac8519-23ef-4ec7-aa21-ad211be9974a,2025-07-31 17:51:17.694,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+47bc358a-1ce7-4cb6-8aeb-b569dc84ca11,2025-07-31 17:21:29.448,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+5716cc22-686f-4e96-a729-78e77764e46f,2025-07-31 17:25:58.461,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+521e4ee2-f73f-42cc-a761-3df2dc01f74b,2025-07-31 17:36:10.478,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+7a3b1c91-a21a-4d4b-954a-bead65a1a55f,2025-07-31 17:54:28.211,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+21770f0e-291d-4829-946f-0212da2d336d,2025-07-31 17:54:59.067,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+63c4f754-1adf-4a30-9323-06fb947d78d2,2025-07-31 17:59:54.034,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+e7166b4c-7f81-4786-b127-584229b3d498,2025-07-31 18:05:11.744,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8f16f369-ecb8-4e05-9f14-55e90e397041,2025-08-01 15:10:36.457,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+e7ff7fc4-6cc7-46dc-a931-8b7552620e39,2025-08-01 15:18:43.346,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8553eb22-b16e-43b2-b3a7-ef25fea88daf,2025-08-01 15:29:24.251,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+26e8b9e1-1091-434f-b531-286bcc8fc6e7,2025-08-01 15:29:42.374,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+7fe10702-3862-4115-ac19-0d3cdd01e50e,2025-08-01 15:30:03.101,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+75b17474-73c2-4006-a41e-02e61792aa30,2025-08-01 15:31:14.486,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f2849f51-0245-4703-b1c6-f802fddfef69,2025-08-01 15:31:29.27,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+cd1230b7-0fce-42bc-90e5-81eef9af327b,2025-08-01 15:39:21.88,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+0e7bec62-9c4e-43cd-8e28-45a2200b87b5,2025-08-01 16:08:16.056,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+bc1fddea-db9a-4200-bfda-7ec3559a0d32,2025-08-01 16:08:27.576,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+395af7aa-e9f1-4afa-bb51-394501a181c2,2025-08-01 16:08:34.436,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+72596f43-5a5d-4764-9163-266f257976ec,2025-08-01 16:09:38.098,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+db3e869e-6cbc-4ad1-940f-6f2bf8bcc01d,2025-08-01 16:10:40.288,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0e3873a9-6fae-4a27-845e-1f14b5414e46,2025-08-01 16:18:30.428,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+75e7d16a-926e-46c7-a2b4-12679e866d13,2025-08-01 16:30:42.773,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+81b4deb6-0563-415c-a2db-7ec15163b905,2025-08-01 16:38:31.75,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e2fa42d6-c70d-4858-b86d-c45d15fef0c0,2025-08-01 16:52:17.487,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+22cc49f1-b7b3-4458-840a-3dd3a2bd4065,2025-08-01 16:52:36.045,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+66ab0941-cd68-4ab9-a584-eb3caf8664a8,2025-08-01 17:03:01.865,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+b8b7f085-2a6d-48d2-b613-ef3d7f75eaa9,2025-08-01 17:04:19.186,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e1baa562-907e-40fc-bee6-34c86ac09c9a,2025-08-01 17:13:11.216,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+fd5377be-08b0-4d93-b485-b13e4f15e0f1,2025-08-01 17:21:03.075,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+ee3ea11f-e9a8-42d7-bf12-0218f645b4ba,2025-08-01 17:51:18.353,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+a87574a8-d32c-4377-963f-e5b955cdba72,2025-08-01 17:51:21.536,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+81d31344-5b65-4ea1-a8a0-e94252eed44f,2025-08-01 17:52:21.119,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+afb2387e-d14c-4cf6-80a3-844335ef98e0,2025-08-01 17:52:39.861,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+669416da-f6c4-4112-a20f-40d4dfdf0f95,2025-08-01 18:05:10.935,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+52813ac5-b44c-421f-931e-cc0b38ecb84e,2025-08-01 18:05:57.826,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+7885ef36-156e-4a2b-ab73-c49c05838268,2025-08-01 19:15:16.649,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+8bb9a6ea-e119-455d-948f-5ad06c7ae0b6,2025-08-01 19:21:30.622,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+4d3e4b88-a5a3-4e37-b156-74584abf5fdf,2025-08-01 19:31:16.785,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+74de909f-8448-4886-b6cc-6526cc269e3f,2025-08-01 19:32:29.267,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+7ccecacc-98eb-4f07-8ef6-ce4a11118928,2025-08-01 20:55:06.322,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+cf41bd43-bccc-4c3a-99dd-09a319b9167d,2025-08-01 21:00:55.493,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+ae753f74-b7e2-4134-9d85-fdfd65b99434,2025-08-01 21:04:52.875,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+edf29845-ea78-4217-8edc-30ffc248c323,2025-08-01 21:04:54.028,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+95b6b412-b5be-48a5-8616-49356ad0800e,2025-08-01 21:05:21.476,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b390c47f-70e1-4ac7-a63a-c4771ec61390,2025-08-01 21:14:03.67,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b630edde-ae0b-4aa7-9ede-713d1d062fc6,2025-08-01 21:20:46.676,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5e58836a-3751-4a95-a3cb-0741a3639f01,2025-08-01 21:21:56.587,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9a8bc2bb-da61-498a-96ba-ce1339ff210b,2025-08-01 21:24:45.334,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+93711204-ff88-4809-96be-e84412b81082,2025-08-01 21:25:57.368,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+a9258281-e111-4873-835d-f1522e7fbf59,2025-08-01 21:35:11.301,DGOMEZADM,admin,Recalculo Traslado iniciada,Information
+1fd07333-bb93-4fdf-99d4-d45a017ae70c,2025-08-01 21:41:06.624,DGOMEZADM,admin,Recalculo Traslado finalizada,Success
+a7f64263-b7a1-43f3-88a4-48414b4f88cb,2025-08-01 21:51:37.867,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+c5d834d4-f4ee-46e2-ae8c-c9de1af88be3,2025-08-01 21:52:48.29,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+be24f7db-b635-4dcc-8c92-7fa83cb4e0b9,2025-08-01 21:54:21.399,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+9658df81-6177-4c04-9b8a-c7ee45e9b136,2025-08-01 21:55:31.725,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+0afc7859-c3da-4b6a-9520-d6b45dc27656,2025-08-01 21:59:55.313,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+46300d66-1c0a-4648-bd20-0d0dcba2cfd1,2025-08-01 22:01:04.775,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ed3075e4-4c34-4321-80b7-41e297d2a1e9,2025-08-01 22:24:30.183,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+8ea9ca91-5d78-4530-9e8e-c20dc8347131,2025-08-01 22:01:32.403,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+fe6abb9b-b0cd-475d-8565-05bab762b6e8,2025-08-01 23:18:06.52,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+7d23f724-8654-414f-b83f-8edef71d0ccd,2025-08-01 22:22:49.497,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b7ca544e-5afe-4b6a-9b7d-e4f2b022fda1,2025-08-01 22:26:19.716,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+9f895266-cc7b-4880-8798-a8b131ddeec2,2025-08-01 22:56:41.259,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+5e338282-f4e6-4ea0-a8d7-864ea644151c,2025-08-05 01:14:53.981,CBERRIOS,admin,Sincronización de Inventario iniciada,Information
+70fca397-d784-44ee-a555-5e9826483a8b,2025-08-05 01:16:04.552,CBERRIOS,admin,Sincronización de Inventario finalizada,Success
+ecd2964b-efe1-41d3-a612-b44bd80d0872,2025-08-13 16:12:38.281,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+cb86c89e-bc8a-4e2b-97d7-0e2b28ca70cd,2025-08-13 16:20:30.923,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e4accb7e-d624-4067-8ff3-03b1db598b9b,2025-08-13 16:34:00.121,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+2b06d4ad-f5f0-4b43-8a1d-78f121b8a30c,2025-08-13 16:41:54.362,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+61d6df59-9dc8-4d66-bc62-c7339ad78df3,2025-08-13 19:41:33.6,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+5490aa57-41ba-4a01-8b66-e5655edb3ae4,2025-08-13 19:49:22.316,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+766d6fe0-8e17-4471-adb7-0c34ddd60beb,2025-08-13 20:00:13.814,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+fdf34f9d-a237-440e-8e7c-968f4b51d613,2025-08-13 20:08:11.484,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+f44fea53-98ec-46a3-815f-479fb97698ff,2025-08-13 20:32:03.539,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3220de92-aacc-4575-b922-db9aa1f8f1bb,2025-08-13 20:39:46.855,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+da2cd483-429e-42c1-8218-799c4fdc17f5,2025-08-13 21:08:33.826,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+098b2e20-f963-41bf-ae6a-53ff23dd6020,2025-08-13 21:16:39.237,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+a465d263-20a5-4273-bb7e-88dd5923cc28,2025-08-13 22:02:30.277,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+e73f2327-62e8-46fd-a4da-f287b42462ca,2025-08-13 22:08:30.408,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+bbde3470-c890-415d-82a5-bbe8226e084c,2025-08-13 22:09:17.248,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+f81fff30-73f0-4b8f-8edf-e3eb61ebd912,2025-08-13 22:17:00.318,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+802be887-5d8b-46cb-a8e5-70559a2b7eab,2025-08-13 22:40:31.853,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+4dcc5ac9-6dd1-4f96-9b87-7d1d26d53c4c,2025-08-13 22:41:44.423,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c50a9fa1-96d9-40b6-90a6-dccc3ad51baf,2025-08-13 22:48:52.038,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+915a810f-1996-4fab-9e55-4117d1568cb6,2025-08-13 22:58:21.51,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d61e41a6-8ef4-4a77-b5a2-ee8d0a805a4f,2025-08-14 14:52:34.237,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+0a40d6cc-c250-46ce-ac1f-0277166bf6d2,2025-08-14 14:53:06.17,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+9555cab3-5f63-4b7a-b30f-7895eee507ed,2025-08-14 15:00:21.156,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+70a6df15-4fca-45b5-baf8-0f0709bf33c2,2025-08-14 15:01:53.007,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+00cda835-a541-43ce-9e15-dbbd661a6d40,2025-08-14 15:02:43.238,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+80c84926-b2f4-4a8a-9408-75c387260b11,2025-08-14 15:02:46.646,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+c489528c-5ae6-447e-b3fc-32befddf1b1e,2025-08-14 15:04:04.975,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+33367d8c-9b6e-4827-a27b-a175dbf675fe,2025-08-14 15:13:09.548,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3ec8b4ff-8280-48ba-87f2-1eb4f3a9a528,2025-08-14 15:30:29.642,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+b59fdc6f-3418-45d2-a199-93f7caa7b474,2025-08-14 15:30:40.914,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6de07874-faf2-4733-87ff-302869a4a303,2025-08-14 15:33:35.01,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f4c9818b-6ffb-4075-85f6-5f3004d6b389,2025-08-14 15:37:54.356,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+4d9495e5-455e-499f-b8c1-b2e2a49c5f1f,2025-08-14 15:39:54.149,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+117b8762-2be7-44d7-97ca-346dc0d76fe3,2025-08-14 15:41:03.056,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c61cdaa3-9bc5-4b4f-a60e-09db6e5bcd96,2025-08-14 15:45:32.379,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1fea5961-7f87-4548-b299-db0a7268c670,2025-08-14 15:46:40.201,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+51bd3e91-32b3-470e-bfa1-73af5c815ca4,2025-08-14 15:47:30.615,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+d9bb81c4-830a-401f-98f9-24b3c6ed3721,2025-08-14 15:56:20.655,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e6aab1f8-75e9-4bb1-8ebf-1c50af808028,2025-08-14 16:17:13.413,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+02ba2f0f-1cfb-4e47-a1d0-bcd9b6fb2093,2025-08-14 16:23:01.504,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+36871835-4edc-4d90-b958-a57e8747a546,2025-08-14 16:26:14.101,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+127dfa1a-fb73-4a66-bf44-bac8ac60c42f,2025-08-14 16:29:19.734,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+44a941d9-e8cd-4d9e-88fd-972d8cf0acb5,2025-08-14 16:34:32.291,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+9141225f-1aad-40f9-8804-c202eed882e2,2025-08-14 16:35:41.006,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+95e00545-115d-4386-903a-13f8168b47eb,2025-08-14 16:36:04.905,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+64c8766e-8e98-4330-ad68-edf46d721ee6,2025-08-14 16:45:00.629,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+c3c00670-eb59-45a9-a44b-a0b1fcb18ac9,2025-08-14 17:05:30.831,NMATAMOROS,admin,Traslado Automático iniciada,Information
+37bfcb4d-9ed8-4861-8d4d-94f4568d4447,2025-08-14 17:05:53.466,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+0521a5fa-1a9b-4f30-9f7e-1db399d3b400,2025-08-14 17:06:40.749,NMATAMOROS,admin,Traslado Automático finalizada,Success
+d96a1536-feec-4a48-be3f-2f5f4ce679a7,2025-08-14 17:11:40.166,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+3992c0ca-2bac-4950-8e3a-de0c0306f26b,2025-08-14 17:14:18.52,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+d77dfb97-563a-4109-bf00-297833c30362,2025-08-14 17:15:29.756,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b39205d6-3dca-4783-bc26-b5fedbdf17ff,2025-08-14 17:15:56.291,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+9c166944-8a5d-4039-af99-b489af26d50a,2025-08-14 17:25:06.921,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+93be08d1-a3be-4394-9534-6f6c92a318cb,2025-08-14 17:29:33.132,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+d0f8a7a5-ecd7-4188-8199-55fa80e359f3,2025-08-14 17:29:52.725,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3420ee1d-b1f0-4f91-b9ad-f25f83f5e8e9,2025-08-14 17:38:30.781,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6ae7b92f-f129-4e92-bdec-1ab0f3a0d779,2025-08-14 17:39:40.528,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+75fb6259-5f68-4e55-be0d-8ef22672a64d,2025-08-14 19:32:14.734,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+26f5ff3e-1767-4b47-b91f-7b03273dd984,2025-08-15 19:43:05.326,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3829158f-55ab-4887-9924-7ea5bfa41c37,2025-08-15 21:43:08.001,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+6266389e-71da-46a3-a091-2d04338642f2,2025-08-14 17:28:22.321,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+2483f82c-ae79-430f-9291-97cbf28ae7bc,2025-08-14 17:39:04.716,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b136bd83-5ec9-4db2-9a89-2d24b514b860,2025-08-14 17:48:54.989,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+5f29e9bf-b8f5-4993-97eb-4ce2c2ae267e,2025-08-15 16:02:07.219,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+93044e25-5f0d-4325-b2a6-8be11d30948e,2025-08-15 16:23:08.248,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b63b2579-f940-4671-bd4c-1b69f86ed53d,2025-08-15 19:51:15.311,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+4e44628a-2cab-4ba8-8220-24552941c4d0,2025-08-14 17:40:52.903,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+073666ce-188e-4048-953d-1d3de4d57bf8,2025-08-14 21:13:15.506,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+0c45b953-b9c5-4f6b-af9f-b9daf1212080,2025-08-15 14:44:21.27,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+ad7aa2b8-90a4-4ca4-aac9-91922ab3dcab,2025-08-15 16:21:58.798,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+086ad8af-150b-42aa-be52-fdf2b3a52b7a,2025-08-15 19:40:38.94,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3f8e461a-f65a-4f33-be57-5f8378c0d25f,2025-08-15 21:43:26.408,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+7208aa41-d6c3-4a44-8155-db8eb3a7d087,2025-08-14 17:42:07.24,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+fba06fe2-f914-4b43-8068-9036585f36d1,2025-08-14 19:24:10.664,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5f9ca9e4-8cc1-48b1-ab26-337511974643,2025-08-15 15:14:55.759,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+8404b81a-161b-40c2-8e85-2c48a235fa30,2025-08-15 17:54:59.219,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+29725189-4a26-4762-987e-1816485836a3,2025-08-15 19:54:52.42,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+091a64ad-b35c-4734-8ba6-38e1eda38ce7,2025-08-15 21:26:03.756,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+c6b458d6-26ab-4aa9-9fc1-56d85656e530,2025-08-14 17:49:57.741,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+7d1a6da2-f359-42e2-8344-8dedfa142df1,2025-08-15 14:35:19.699,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b7db8df2-4129-4850-8758-9ba2353790e7,2025-08-15 15:56:19.761,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+8a2bb0e2-8327-49a1-9752-3f939b034692,2025-08-15 16:17:07.735,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+9492f022-c3a6-4c49-ba8a-b8db84481be1,2025-08-15 17:53:49.544,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+2249b2b3-14f5-4fca-ac99-0b1a8a3aecae,2025-08-15 21:25:44.419,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+d6dc6b47-af64-4318-896c-83f2317e0a1e,2025-08-15 22:20:31.399,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+81669656-3bb8-4d40-bb55-1e4f2992de14,2025-08-14 19:25:19.52,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+73944e86-4891-440e-9897-1cecfde04870,2025-08-14 19:30:09.523,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+2775a862-3d03-471c-a427-b4120c578123,2025-08-14 19:33:23.323,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ea0ce996-375d-4a5a-ad25-af523a79d13a,2025-08-15 16:05:24.15,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+bdc4430e-11b5-4e4a-a430-65c8e14d4864,2025-08-15 16:29:06.782,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b3d69db5-6f5b-49ac-abbc-36e87644791e,2025-08-15 21:37:42.307,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+3ebd39eb-feba-4ce6-a7ba-8db88b187ca0,2025-08-15 21:38:00.091,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+37543613-94ce-40fa-9cc2-3a4019cade63,2025-08-14 19:28:59.564,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b59f1cc5-7170-4119-8766-ab9d3c7a2cf1,2025-08-14 21:19:00.941,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+0ba7b5c7-760a-4238-b9bf-5e69337bacce,2025-08-15 15:23:42.136,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+566afea0-9557-42c8-a000-c6cbb42b8bc8,2025-08-15 16:06:33.092,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+74aeb317-6099-46a8-be44-20ee754f4770,2025-08-15 16:08:15.155,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+ef613af7-1c36-4716-b42e-8955269918c0,2025-08-15 16:27:57.198,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+df504b66-a469-4962-9411-700c4dc43451,2025-08-21 14:53:28.12,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+d11f24cc-dfa4-4cfe-9b2c-d0a05a4e0983,2025-08-21 15:41:17.042,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6f76a574-a6ce-41e2-b0a7-6d57f6ca0729,2025-08-21 15:54:05.63,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+5b6e7ed6-415d-4f52-91e9-5d67aa323508,2025-08-21 15:58:42.034,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+01434c0f-3316-4a5f-861c-32baf0ce790b,2025-08-21 15:59:58.555,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+58fb730c-2a5c-4522-aa06-c08f299c936e,2025-08-21 16:00:50.637,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+4f60062d-21d5-43dd-8c80-a0f9a51f099d,2025-08-21 16:04:00.016,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+463e3f3b-f6f2-494f-95b2-57a5e7d23057,2025-08-21 16:05:10.424,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+379782c4-f732-479c-a424-5603c45522bf,2025-08-21 16:20:03.785,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+7392c6d6-8785-4391-8f23-5b31e120037a,2025-08-21 16:26:03.824,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+ce3307df-5665-4187-b701-05c30842bee9,2025-08-21 16:26:25.474,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+5c5e2d17-0ab6-4de4-89d1-b356570a9e4e,2025-08-21 16:31:49.958,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+d992de36-bf4c-40f0-ba84-8fad9183044f,2025-08-21 16:34:58.37,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+7f2e9041-5ffc-4d4c-9f4a-c06e8008dff6,2025-08-21 16:35:34.21,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+d4fda44f-bf6b-4484-9a77-8814140b5925,2025-08-21 16:37:08.504,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+5a148c4f-9b36-4213-8865-c50d00e8d0d6,2025-08-21 16:38:45.99,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+38aeaba5-e8eb-4c6c-8512-424dfa204348,2025-08-21 16:38:50.337,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+9bb12268-e591-4848-9f86-8fc1982315fd,2025-08-21 16:38:53.502,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+74ba6949-82af-42dd-8982-5c31c589c476,2025-08-21 16:38:59.677,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+bddbab7a-a1a2-4932-a7ee-ecb6eea0668c,2025-08-21 16:39:04.691,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+93b4b0d1-9b5d-4d32-896d-9cd07c8b3443,2025-08-21 16:39:14.138,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+8411dc94-18e9-4753-8b7f-50b2ca24a8a5,2025-08-21 16:43:06.261,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+67d96489-fc44-4b0b-ae2e-4b4305096e55,2025-08-21 16:44:48.535,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+101453ee-bbee-4ace-b831-8003b3dc7677,2025-08-21 16:52:07.005,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+2782370c-d47f-4293-a42f-75c8a98f25d3,2025-08-21 16:52:12.496,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+a471a337-9c84-47f5-bbe0-0746339f2de3,2025-08-21 16:53:04.947,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+2bce1580-fe9d-4509-87e7-707c5b8240da,2025-08-22 00:04:14.963,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+83a75005-7a7a-4ce6-bf2b-8a7745756f07,2025-08-22 00:04:33.139,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+493dc919-0d7f-46d3-8120-043bc25d1a1b,2025-08-22 00:11:20.069,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+ded224e0-d4b0-402d-9ad1-8794028a17d1,2025-08-22 00:11:38.713,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+366c8448-a39a-414e-9d52-5193cbc73e4f,2025-08-22 00:16:44.777,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+1ae23123-d947-4f70-9e92-e7e13f423c74,2025-08-22 00:17:03.11,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+1a85435a-4dc5-446d-ad3a-948eb684fc56,2025-08-22 14:30:59.443,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0c62ab0f-5dd9-475c-874a-552aa0e1f5d1,2025-08-22 14:39:34.294,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+da3d9baf-6dbf-4a73-9afb-6ee0d71c9485,2025-08-22 16:42:24.046,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+03ab7f15-9232-4a8e-99b3-73b05590e3dd,2025-08-22 16:43:36.027,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+0939b696-ec89-4d84-bf23-4396580335c4,2025-08-22 16:50:56.557,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a7450fdd-192a-4fd5-b3ee-79096e208a56,2025-08-22 16:51:28.881,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+0a8d07ab-2536-4f3b-ba3d-c9deea7230c9,2025-08-22 16:52:09.124,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+c3fc897a-a900-40d0-86e1-32559ff6b336,2025-08-22 16:52:10.615,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+09c6a1c9-d0e7-4c18-a15e-6c8047f83e0f,2025-08-22 16:52:17.589,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1b5441d7-9ff8-4781-888d-7f6f292370bc,2025-08-22 16:52:28.374,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+9c8fff82-1490-4735-8a71-7e7cb0e16a77,2025-08-22 16:52:59.102,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ab680354-f64b-48aa-b860-659f465fceab,2025-08-22 16:53:48.392,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+28a1923a-36e3-46f6-b64c-3109ec1443a7,2025-08-22 16:55:26.265,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+c0adf45a-789e-4e76-bc8a-0a55fbf067bb,2025-08-22 16:55:44.78,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+a7adf79c-776d-4b80-afd0-2e4b3f54377f,2025-08-22 16:55:52.171,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1d1cb8d2-b7b4-4db4-9cbc-b4d82fc4fe6a,2025-08-22 16:57:05.623,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+393a4c74-6ab4-4464-8ce4-09570d2c65b6,2025-08-22 16:57:46.953,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+d6a2d9e6-85f3-4470-ad8d-066fadb17350,2025-08-22 17:07:21.428,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+caed20cd-265b-48e6-a385-c12033c708ef,2025-08-22 17:26:33.538,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+da728af6-c569-4d97-bea4-532d689c559a,2025-08-22 17:36:28.322,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e0187520-8a5a-47cb-8748-b8b8e54f21a8,2025-08-22 19:45:21.611,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+52ae2035-0474-4e7c-8df4-7bbb5f058a20,2025-08-22 19:45:24.854,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+818b75ab-c580-4180-9bd8-950d4b48a0be,2025-08-22 20:02:19.869,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f7ada38b-bbc7-4b28-bca1-028626ee5fff,2025-08-22 20:04:15.748,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+201538c2-f821-4807-a813-cc9f4a89f709,2025-08-22 21:04:34.207,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+f3d60f15-2597-4b8c-aecb-0bb7ed0229d2,2025-08-22 17:53:56.399,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+de710866-05c1-4700-8db9-52158113b365,2025-08-22 17:54:15.141,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+f7838c9d-0f7e-4433-97bb-16fbe6e95687,2025-08-22 20:55:02.664,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+c55717e4-aa33-48a4-a06f-3326ce7803c1,2025-08-22 20:55:21.902,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+712e6090-3ba5-412e-b24c-0c502fa61fc5,2025-08-22 20:58:36.347,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+96e11a54-befe-4746-99f9-8b938aa60387,2025-08-22 17:58:47.232,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b59de81b-39ce-449c-ab20-b1777605abea,2025-08-22 19:45:20.082,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+6f84446f-1a91-49bd-8e25-2210af6ed8bf,2025-08-22 20:01:47.165,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+7bfdde99-7eba-40a9-8b5c-35e348c0d3eb,2025-08-22 20:11:00.231,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+67b25dce-9dd6-4956-9974-2b37924773af,2025-08-22 20:55:06.407,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+910d228e-9531-4641-a9be-41bcc8c72b42,2025-08-22 18:00:04.975,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+1fb2c22a-266c-4b16-b672-ad150991d308,2025-08-22 19:46:07.761,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0eab40e0-d977-48a2-9919-a289055808c4,2025-08-22 19:45:26.151,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+d9d38de1-d810-45e5-bd75-93b5ffd38a29,2025-08-22 19:53:45.118,FUNCIONAL,admin,Cálculo de Costeo iniciada,Information
+346c5984-c7e1-41d6-acd9-93485e6babec,2025-08-22 20:02:06.557,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+9a9f74ed-b30c-45ea-8143-13eef003a69c,2025-08-22 20:09:41.263,FUNCIONAL,admin,Cálculo de Costeo finalizada,Success
+0a3c2031-fad7-420e-84b1-11ef3d5f326f,2025-08-22 20:58:57.569,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+794ff51c-4396-4b17-9e4d-52dff71862fe,2025-08-22 21:21:25.584,FUNCIONAL,admin,Cálculo de Costeo finalizada,Success
+20bf5d78-e898-42b9-9bd2-fd99f39bd638,2025-08-22 20:55:23.405,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+98c37705-88e6-42e1-b3f0-45ec27c6d873,2025-08-22 20:55:31.279,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+456fe4c6-84b7-4778-82d3-24d1078cdcdb,2025-08-22 20:55:37.191,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+18e05b83-f51d-4e65-92ee-cc0fd865519d,2025-08-22 20:55:54.717,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6cdca9b7-72c0-4298-b9ef-83bc3a41037e,2025-08-22 20:58:10.697,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+858e4e9c-b030-48c9-850d-3f68deb6e858,2025-08-22 20:58:41.912,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+253536f7-7f6f-4f21-8512-a8465b395aa4,2025-08-22 21:04:13.643,FUNCIONAL,admin,Cálculo de Costeo iniciada,Information
+4de62c52-dcd4-4c45-aeb7-676cafdf29dd,2025-08-22 21:13:22.934,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+c6f02678-b1b6-490f-9ab5-b63bdb8c3a98,2025-08-22 22:47:27.753,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+5f8d6f41-82b0-4251-b584-8096d3b40cd8,2025-08-23 00:00:04.099,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+470c2b83-ee93-4122-9c98-8149b7c95433,2025-08-25 15:06:23.157,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f4c67cd7-d410-411e-a91a-5995c0e612c5,2025-08-25 15:07:34.629,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c805a9d0-4f17-4f57-9f8a-2e44bd0ccf93,2025-08-25 15:11:32.732,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3f1ab82c-85bd-4576-b1cc-08c1cadd24d0,2025-08-25 15:21:29.32,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+881af705-1a9c-441d-b76b-dc72f283e2f0,2025-08-25 15:22:36.563,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+9a0d5abe-e462-4466-80a8-d5cc9f16b1b3,2025-08-25 15:27:29.401,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+b39af7c8-0590-4a93-926c-fd5de17780bf,2025-08-25 15:27:47.329,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+ddd951b0-c26d-47e8-80e3-50248382dda6,2025-08-25 15:29:50.925,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+aed2055d-1260-4547-a43f-94f413ebe720,2025-08-25 15:29:52.003,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+a4d01912-ab9f-4c51-a161-f7726305c997,2025-08-25 15:30:52.723,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a2a570a8-2689-4b13-b4c3-81d37647f8df,2025-08-25 15:31:35.267,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+1eb5e3c3-fefd-4aa7-8dbb-f893d509c7b2,2025-08-25 15:31:53.884,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+6641686c-c76f-4855-bd02-9a54835f4c17,2025-08-25 15:33:06.01,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+8fd714a2-b4c4-4411-b6ef-866474e125dc,2025-08-25 15:34:34.234,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+525a606d-9bd2-40fa-84c9-194735dd524e,2025-08-25 15:37:45.036,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+1f0fd780-e128-49bb-a027-9360b7573522,2025-08-25 15:44:08.75,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+57f5647a-69b2-4291-9a7a-f2b3cf710833,2025-08-25 15:44:27.252,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+801d7971-8d14-4a72-b5b4-5d62847de162,2025-08-25 15:45:45.628,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+d52953e8-7920-41af-9b28-bb7e16b05c51,2025-08-25 15:46:03.665,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+24d0aeca-356e-44a5-b5f0-9a6901f697c4,2025-08-25 15:46:16.982,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a45b3032-adad-4ad2-b3a3-8c20dd1031eb,2025-08-25 15:46:26.493,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+d7078d3d-d6d2-4d36-a870-c084fd4b5919,2025-08-25 15:46:38.686,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+10e957e2-50d2-40da-b4b3-ef88c0ff2891,2025-08-25 15:46:58.42,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+178ed977-4f11-48e8-be34-cb61e0741559,2025-08-25 15:49:55.243,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9052d665-b2b7-4998-9a46-95e4ff09a591,2025-08-25 15:53:40.92,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+1bfb9573-adbb-4072-b95b-47c84222fccc,2025-08-25 15:59:26.569,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+6c5e73b2-4586-4441-8464-8e0e246d62be,2025-08-25 16:06:35.142,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+fddc2ffd-e64b-4b4d-8e11-d31a6a4b6475,2025-08-25 16:07:06.429,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+e437a207-0b9c-46b9-978a-473f34c32fbc,2025-08-25 16:10:29.426,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+46e61742-4fa8-4810-a8df-10e281d22d4d,2025-08-25 16:11:48.384,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+c5042d2d-1fe5-410c-affb-2549cb846689,2025-08-25 16:17:03.831,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+df0f6ece-831c-4268-a503-84f254ae0139,2025-08-25 16:18:08.337,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+03df8445-6d86-4eb4-bdaa-1bb2aa56feb1,2025-08-25 16:20:07.509,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+30afe9ba-3c28-426e-8269-b5dd65cf1726,2025-08-25 16:21:54.03,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+d4421c94-2b29-44b2-bd47-2b2af0284e6a,2025-08-25 16:22:17.018,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b43d2849-54e7-4ae6-b185-ccfcdd83fe4f,2025-08-25 16:27:49.752,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b50cb448-bc9b-4073-96db-34e9018f6fff,2025-08-25 16:32:13.483,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+708e483f-e02e-41e0-8979-78107f963a96,2025-08-25 16:37:54.459,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+cce505b6-e23c-4823-9e0f-6315c9c9dc6e,2025-08-25 16:40:41.169,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+759f1612-ec0a-4e57-b90b-00aac9696a0d,2025-08-25 16:51:23.462,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+295526d7-34e0-43cf-9780-c78439a66ac9,2025-08-25 16:57:14.989,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+feb8cd44-e894-4b6f-8a01-1ec9c929a1cd,2025-08-25 16:57:32.358,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+2f124635-b9a6-4fed-aac8-30af783248ca,2025-08-25 16:57:36.682,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+d09ea537-f987-4612-8079-52fead815b6d,2025-08-25 16:57:48.203,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+1fcf08d2-92e5-4637-ab8a-e00c73019791,2025-08-25 17:20:00.33,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+cc1113fa-a220-4ee1-a8b2-6363ce4febca,2025-08-25 17:28:09.705,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8ae856ac-f856-44f1-997e-10e7ceacd9e4,2025-08-25 17:38:29.236,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+07188cc0-9736-4d98-a738-71e462bc310f,2025-08-25 17:59:00.163,DEVELOPER,admin,Sincronización de Estructuras Organizativas iniciada,Information
+023595bd-b2bf-415b-b521-090e31564e91,2025-08-25 17:59:00.294,DEVELOPER,admin,Sincronización de Operacionales iniciada,Information
+ce717694-dd79-437b-9596-0af74fc68fd5,2025-08-25 17:59:02.398,DEVELOPER,admin,Sincronización de Estructuras Organizativas finalizada,Success
+e77bcd5a-f2a1-46be-a4f7-18b6860d26db,2025-08-25 17:59:23.231,DEVELOPER,admin,Sincronización de Operacionales finalizada,Success
+7227a238-a2c1-42d0-8af0-d6a1b6d81273,2025-08-25 18:02:19.069,DEVELOPER,admin,Sincronización de Estructuras Organizativas iniciada,Information
+d42753d0-6d10-4a27-8bf1-3f22b08f35a9,2025-08-25 18:02:19.224,DEVELOPER,admin,Sincronización de Operacionales iniciada,Information
+37d29108-641f-479a-aa75-84e4c91c1b85,2025-08-25 18:02:21.961,DEVELOPER,admin,Sincronización de Estructuras Organizativas finalizada,Success
+2fa33f56-4ba4-40c3-b40c-77794b5167eb,2025-08-25 18:02:42.703,DEVELOPER,admin,Sincronización de Operacionales finalizada,Success
+d68b0a04-b8f7-4392-9fa4-0ff525523e08,2025-08-25 18:06:21.866,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d52456e7-9a91-4db3-9be1-c4ff2b6c118c,2025-08-25 20:38:33.795,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+937d2b24-6b92-47ae-8d45-4d3498617e12,2025-08-25 20:38:51.689,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6032b580-16d1-4008-9148-fe9a6d57f89d,2025-08-25 20:39:23.185,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+4b8efd23-98fd-4e09-81ca-94eafc0b68cb,2025-08-25 20:40:03.156,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+1f58ef42-9e31-4508-81f1-59f3660316ac,2025-08-25 20:41:26.638,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9560526d-9f46-4e68-89d0-7ff246514022,2025-08-25 20:43:12.039,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+942bdccb-e7b5-4b29-a10c-9f8bb2bad8fe,2025-08-25 21:48:24.27,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+43428887-3e8d-4cee-b377-08daec38d8fd,2025-08-25 21:48:27.655,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+01156760-c89d-4a78-9bb7-c1a096d1c048,2025-08-25 21:59:12.166,FUNCIONAL,admin,Sincronización de Inventario iniciada,Information
+1cd9761d-7a91-4e58-93b0-0892139d7a49,2025-08-25 22:00:15.75,FUNCIONAL,admin,Sincronización de Inventario finalizada,Success
+18a902ff-67f2-4cfa-9044-9121d9dfc054,2025-08-25 22:10:35.464,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a34ca390-00a0-42e5-beba-f1435c339e29,2025-08-25 22:11:37.524,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c12af5ea-19ed-4b34-a3b8-62d678d530eb,2025-08-25 22:14:24.83,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+4fdc4b16-1701-426e-8d6d-331cc86ae672,2025-08-25 22:14:35.683,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+7c48b426-607b-4c1a-baf2-e1e5c45f3b8a,2025-08-25 22:14:49.968,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+834416e8-f1d7-47e9-9a0d-af3a5d36bb7a,2025-08-25 22:14:50.229,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+dead913d-abd9-4dc9-a4cc-c75898cc4ce2,2025-08-25 22:21:16.202,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5cdb5a4c-6273-4d5a-8e77-0b0970d63558,2025-08-25 22:23:44.702,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+477a6650-c5bd-4158-8915-eeb3fb413a76,2025-08-25 22:42:01.504,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6e167c00-cba9-45b2-a77e-8017923ee266,2025-08-25 22:47:33.682,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+da986d6e-0554-4b47-ba13-b748f38ce815,2025-08-25 22:49:12.684,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ad854cf5-279a-4524-9a81-c642c813ba64,2025-08-26 14:58:17.142,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+75382f0c-17dc-4d3c-84ee-10ce5d4c53aa,2025-08-26 14:59:21.175,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+0e8f9d44-fdae-4e06-ab0a-fbd44a73222a,2025-08-26 15:07:59.267,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+695fab6f-ce2f-4d26-9bdd-533a6e96f75f,2025-08-26 15:08:10.059,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6595a079-f051-45f3-a9af-d2dfc9bb406f,2025-08-26 15:11:29.713,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+25941f7c-3584-4557-8c82-e221a3c0ff26,2025-08-26 15:16:29.548,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+72795f46-a025-4a58-9561-7d3eeeb0c4ca,2025-08-26 16:02:09.086,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+23017b10-8c9e-4c5a-af95-195f7ab7e7ce,2025-08-26 16:04:03.174,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+e629c5db-b12b-4dd6-866b-e19e6c13ea71,2025-08-26 16:06:11.576,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+23bb7476-3361-454c-9c22-8d2f8245ac45,2025-08-26 16:06:12.983,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b7401601-05b5-431d-ae80-44b795ca72d5,2025-08-26 16:07:42.991,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+005030b0-eeae-4781-91b5-c50fc6720669,2025-08-26 16:09:27.515,NMATAMOROS,admin,Traslado Automático iniciada,Information
+882b66a5-a7ce-49fa-9462-b66e6c4a3095,2025-08-26 16:10:57.483,NMATAMOROS,admin,Traslado Automático iniciada,Information
+9947fe19-7a6a-42f8-ba12-35b65ba338d8,2025-08-26 16:11:08.515,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+d5a9f5ee-2ea3-4371-9833-a266f2e0873d,2025-08-26 16:12:27.247,NMATAMOROS,admin,Traslado Automático finalizada,Success
+80da2fda-bb60-4231-8230-ce461c5ada10,2025-08-26 16:15:19.971,NMATAMOROS,admin,Traslado Automático finalizada,Success
+cd428a45-5749-41d6-a510-bbab6ec78e77,2025-08-26 16:18:01.148,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+c107fd29-dc13-4fd2-aba6-a6935acd4d85,2025-08-26 16:35:59.671,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+b5cb0dbd-b55b-4376-98e4-a281e8e78ac7,2025-08-26 16:37:19.14,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b9cfb79e-ac48-405d-9dbe-8cb6b21e2edb,2025-08-26 16:59:30.788,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3cc82ca9-e3b7-4679-ad3a-d5880d600372,2025-08-26 16:59:52.056,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f39b59b7-c3a2-4f1c-861f-e21689dfbc67,2025-08-26 17:00:55.488,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c65c2e13-fb15-4c22-ac4f-a5c5a1c46af1,2025-08-26 17:17:02.375,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+05cbcf6a-5c19-41ee-9427-f363cfa2e311,2025-08-26 17:24:25.033,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+c001bedf-eee6-413e-9531-f411cf8be1ab,2025-08-26 17:25:31.668,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+49442a10-a1db-48fa-adf5-a81829d12f53,2025-08-26 17:26:35.496,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c5520fec-4d2f-4f6b-b9ce-5b7374f3de7f,2025-08-26 18:24:03.303,DEVELOPER,admin,Recalculo de Parametros Financieros finalizada,Success
+0c5add00-4830-45a7-9ed7-e251f3fcee51,2025-08-26 17:47:18.61,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+0ce8f9e9-1013-4722-96c5-fb6d2175021f,2025-08-26 18:00:43.998,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e485f2f0-52de-45ed-bedc-986915dcaea6,2025-08-26 20:13:35.003,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+0f43f520-668a-4a3f-adb1-b4506b59466d,2025-08-26 20:16:37.725,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+587f097d-fe4f-4385-93c4-2670a16e3082,2025-08-26 17:48:01.752,NMATAMOROS,admin,Traslado Automático iniciada,Information
+24798f1f-cebe-43b8-927c-f9df062c2226,2025-08-26 17:48:13.052,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5c8b81ad-0f95-469c-a72b-f86bc3c6bc80,2025-08-26 19:22:29.379,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+0da94351-74bb-4d3e-85b6-ef614fe8468a,2025-08-26 19:38:35.014,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+a6cb788b-7cdd-4608-9deb-af77f2031578,2025-08-26 20:01:28.026,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+28b93672-471e-480a-9d77-de8ce58ff0d5,2025-08-26 20:11:01.919,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+0327bdaf-de4c-4bb2-9232-765b81ba2c73,2025-08-26 20:19:08.016,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+1cd7dbc3-9c4a-4ee9-a2f9-dfd6c99fabc9,2025-08-26 17:48:34.225,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f045e186-ce1a-48d1-bfa5-affd58ff665c,2025-08-26 17:51:27.836,NMATAMOROS,admin,Traslado Automático finalizada,Success
+99dbd59b-2215-438d-9a00-66ad6daab5b4,2025-08-26 17:49:24.011,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+029c9253-babb-4105-b798-deb0d54b7f52,2025-08-26 17:52:33.832,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f6b4de23-924f-4085-94cd-64839814332c,2025-08-26 18:24:03.181,DEVELOPER,admin,Recalculo de Parametros Financieros iniciada,Information
+f64a7118-4e58-4aed-a9ce-967fd6fbfba5,2025-08-26 19:19:02.688,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+28398636-8ca1-41b0-bd5c-73f9a835c7ab,2025-08-26 19:19:15.836,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f7f20cdf-44c0-453f-9b69-fb397401b60f,2025-08-26 19:27:24.376,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+fb4f952b-c170-401a-9238-b34a4bfd055b,2025-08-26 19:29:10.688,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+57d1d5ca-a210-4780-8251-6ce3728e8d84,2025-08-26 20:01:43.294,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+be2403a7-51c0-498c-a68c-0794902b23dc,2025-08-26 20:03:10.97,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+dbc63ed5-729a-4f94-b2da-5683a1e35b28,2025-08-26 20:09:29.553,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+66dbf58b-a88e-4bf7-9746-75f7f461e8ce,2025-08-26 20:13:13.192,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+09b8066f-4679-4f0e-8585-22457ee31bec,2025-08-26 20:15:47.196,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+37c3d68c-6e07-42fb-9fb1-b74f96de1027,2025-08-26 20:16:52.97,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+99ca5102-d490-4a74-b28f-1f172f3cb3c6,2025-08-26 20:19:23.531,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+d2056ee2-af9c-4a13-a5fa-904aeb01836f,2025-08-26 20:02:07.475,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+bdeec8e5-a774-4360-b26c-af78d7923459,2025-08-26 20:05:02.171,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+15581be2-9519-4207-8edd-ffee3ed01ab7,2025-08-26 23:08:50.882,FUNCIONAL,admin,Cálculo de Costeo iniciada,Information
+80e58451-f80e-4e80-803c-fa3b24aa36d6,2025-08-26 23:18:09.998,FUNCIONAL,admin,Cálculo de Costeo finalizada,Success
+36462b2c-d781-469c-847e-5bee0b8359b9,2025-08-26 23:20:49.846,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+d5edf5f0-b211-49af-8f55-b0aa473759a8,2025-08-26 23:21:05.782,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+0e5d6f15-8350-4b5e-892e-f49d6189215c,2025-08-26 23:21:22.236,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+b4a0cfa8-f0cb-4efe-9e3d-72698b23552b,2025-08-26 23:21:37.168,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+5a8d8de6-5a36-4122-83af-2bc5806f0426,2025-08-26 23:22:21.128,FUNCIONAL,admin,Recalculo Traslado iniciada,Information
+e15a7997-d641-4224-9f97-2b9181d0abd2,2025-08-26 23:29:43.611,FUNCIONAL,admin,Recalculo Traslado finalizada,Success
+6c15c74f-d884-4af9-9473-dc749bd6a992,2025-08-26 23:30:38.431,FUNCIONAL,admin,Sincronización de Inventario iniciada,Information
+d9ccf2a9-345e-4b73-9ea6-fb695b6c05d0,2025-08-26 23:31:40.955,FUNCIONAL,admin,Sincronización de Inventario finalizada,Success
+dd0d33a4-8db2-4bd4-a0a1-4366db0db5e1,2025-08-26 23:34:45.421,FUNCIONAL,admin,Cálculo de Costeo iniciada,Information
+f2ccebbe-adb5-4639-92d2-be71c17dd886,2025-08-26 23:58:23.679,DEVELOPER,admin,Cálculo de Costeo iniciada,Information
+81501fe1-16f1-480b-ab87-aca5834552f1,2025-08-27 00:12:39.426,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+fbbf9b7d-070a-438b-9a69-5b924502ae02,2025-08-27 00:12:54.607,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+9463001d-0406-4e70-a174-8f4d1cf3c2fd,2025-08-27 00:25:06.677,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+738561a0-c043-4d6a-8b2a-71ba78cb2c7f,2025-08-27 00:25:22.37,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+4adb2873-dffd-423c-84ab-89e51391b79e,2025-08-27 00:26:01.839,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+e3cf1995-a7cf-4e2c-8b69-082b60470190,2025-08-27 00:26:17.294,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+2a6cf79e-2f60-4b63-86c2-5a05f9642721,2025-08-27 00:28:21.921,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+57c2184d-3492-45e2-ac14-776641d49f85,2025-08-27 00:28:37.021,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+9fff7710-243e-40df-a640-91a1486d021b,2025-08-27 00:56:44.908,FUNCIONAL,admin,Recalculo de Consumos iniciada,Information
+62119344-9364-4c41-be50-4fd3e1616d62,2025-08-27 00:57:01.01,FUNCIONAL,admin,Recalculo de Consumos finalizada,Success
+02128d89-8bdc-4af5-96f2-73c141428a78,2025-08-27 13:18:47.404,DEVELOPER,admin,Cálculo de Costeo iniciada,Information
+c0af78a8-a90e-4de2-bb74-0242fdbac3be,2025-08-27 14:24:05.85,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a2bc71e5-c681-4842-a93c-7a0d7d42a2b8,2025-08-27 14:29:51.472,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+821a817e-a36e-4645-9bc1-ffcf5073a354,2025-08-27 14:30:07.496,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+99ee0e63-38d2-4cc6-b41f-dcd16d5fd3df,2025-08-27 14:35:49.198,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ed291147-4cac-44a6-866e-07643a47146d,2025-08-27 14:37:08.537,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+d2aed0a7-23eb-4b59-8822-1c86811763da,2025-08-27 15:05:06.16,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+14a8e12a-cb98-4e83-ab14-79576040c332,2025-08-27 15:06:29.814,NMATAMOROS,admin,Traslado Automático iniciada,Information
+f3f484ad-398e-4325-b231-d203e98f3057,2025-08-27 15:06:41.843,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+8225459a-532c-4e61-8111-4751c155eef4,2025-08-27 15:07:38.219,NMATAMOROS,admin,Traslado Automático iniciada,Information
+78209f0b-88b1-43bc-8892-5322bd156111,2025-08-27 15:07:46.18,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+b56a19fb-05e1-49ea-ab6d-8766d3dde6bd,2025-08-27 15:14:30.286,NMATAMOROS,admin,Traslado Automático finalizada,Success
+94027fd1-43bb-44d1-a8e8-0d4251c223b7,2025-08-27 15:15:41.962,NMATAMOROS,admin,Traslado Automático finalizada,Success
+02a54dd0-5656-4bfb-9115-4ce46f9529b9,2025-08-27 15:20:43.238,NMATAMOROS,admin,Traslado Manual iniciada,Information
+cd57a277-9337-48b2-988a-2723e7cdfa41,2025-08-27 15:22:02.621,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+235342e2-f8e3-43a0-854e-aa7016975e15,2025-08-27 15:31:38.984,NMATAMOROS,admin,Traslado Manual finalizada,Success
+6318d77b-a267-4db7-9f6d-b2efeba092a8,2025-08-27 15:43:02.606,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+45baa552-dab5-4a02-9770-a6483ed51674,2025-08-27 15:44:10.207,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+6a3a553f-d1af-441a-a8a6-02b8456f03c4,2025-08-27 15:50:57.337,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+03a0f7be-41b9-44cb-ba86-3af8f845cff3,2025-08-27 15:51:38.702,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+1e68248d-43a1-4e54-b1a5-cc7b5bef7113,2025-08-27 15:51:55.439,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+c330e797-85cd-42cb-a216-b3b0e6abd156,2025-08-27 15:51:59.635,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+8a657ba3-68f6-4e53-bdc3-c58ca108f7ab,2025-08-27 15:57:44.578,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+bf83967e-7ee2-468d-b927-4a98f2abe991,2025-08-27 16:05:29.608,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b596600d-c09b-47b4-a121-176f5882268e,2025-08-27 16:14:02.792,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+91c49aaa-1cc2-4eac-acbf-323e335b4895,2025-08-27 16:23:03.124,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+92bddfe5-b856-45f1-9c73-46f8b2cc0ce1,2025-08-27 16:31:06.598,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+49f4a4e9-9736-4536-8168-cfea9e10ed2e,2025-08-27 16:35:53.689,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+57d82333-4a74-4a7c-a55d-b08f2eaefb23,2025-08-27 16:50:55.976,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+bf79aae8-083e-4c32-bf4d-ea10045600dc,2025-08-27 16:51:30.224,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+b9504e80-e3be-4c8d-816e-32a29af2afa0,2025-08-27 16:52:31.83,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+1d3b4f15-2c61-4e82-a9db-e8d9c496a6c6,2025-08-27 16:57:17.813,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a5cb06dd-6519-4ffb-bd56-7ec227182a7f,2025-08-27 16:57:21.341,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+77acb0b2-e3df-4b1d-96f1-16ea696d1d11,2025-08-27 18:00:34.78,FUNCIONAL,admin,Sincronización de Inventario iniciada,Information
+8e7e0391-8a48-4001-9d2c-332c1ac30a2c,2025-08-27 18:01:41.701,FUNCIONAL,admin,Sincronización de Inventario finalizada,Success
+928d118c-2dfa-4d71-8d2a-ed9c3cb7704b,2025-08-27 19:53:07.684,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+ef430814-68f4-4473-b275-dc08180cf1c5,2025-08-27 19:54:13.103,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+c0b99ab2-d2dd-4d22-9408-abc6086a33c9,2025-08-27 20:10:34.229,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+c63c6112-801f-4d04-a372-dfa63d83642d,2025-08-27 20:12:42.544,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+8e3bd2ff-7c6a-48a8-b839-9adc4ca471f9,2025-08-27 20:15:02.663,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+874de254-5ad9-4b84-a35d-144881d1f35e,2025-08-27 20:18:14.812,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+0df6068c-67a2-40ed-b866-7a52ec627c09,2025-08-27 20:20:47.257,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+bdd21cb2-4515-47d6-9462-b59152b3f911,2025-08-27 20:28:02.308,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+32135081-f3d8-4db3-b7f5-fe012b65401d,2025-08-27 22:22:10.211,DBULNES,admin,Sincronización Global iniciada,Information
+ee3711f7-a691-463d-aea4-16a868e5a04c,2025-08-27 22:33:26.442,DBULNES,admin,Sincronización Global finalizada,Success
+4eeca9f0-1b3d-46e3-834f-295fd4cb7749,2025-08-28 19:35:35.333,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+14465247-480c-4f41-9be2-bc24845cfdb3,2025-08-28 19:35:51.669,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+cdfa2d49-195e-4c4b-9e4d-c042f7d0f60c,2025-08-28 20:09:31.706,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+bc85441e-9d22-4088-af22-37220a2c0d5d,2025-08-28 20:09:55.268,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+ade6e0fb-fd21-4218-a085-9326baebb5e8,2025-08-28 20:09:59.358,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b1fe21a7-d998-4b8d-825a-0a02b0e6af5c,2025-08-28 20:10:05.295,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+49eb1fc5-e7c7-4595-ac65-2cb13f9a504b,2025-08-28 20:10:35.827,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+db744e96-14f1-4ef4-b5b2-ba962f86ae14,2025-08-28 20:13:12.22,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+669ff459-b1d8-4916-8cd4-f3fad740324c,2025-08-28 21:36:32.809,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+f709bfbf-07fc-454d-ae35-1cb363f77288,2025-08-29 14:17:39.6,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+2038f3f2-e791-4981-8629-011ebc0f8751,2025-08-29 14:22:07.911,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+21feb7d9-c2c0-4bf9-ad11-84b0da38be72,2025-08-29 14:22:30.449,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+4006b691-f7f6-4a70-8e28-43a2091dae4f,2025-08-29 14:22:32.594,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+7be9e02b-1f99-490e-818e-2b94cb141391,2025-08-29 14:24:25.123,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+81e448b5-7453-4533-9ae0-f02201ad6c6f,2025-08-29 14:25:46.748,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+96cab8a8-097c-44c7-bbe5-2e80de05c278,2025-08-29 14:26:36.215,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+335a4f29-db0b-48b3-8e9d-ef4e26594811,2025-08-29 14:27:29.911,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ffb8fd9f-4e85-487d-95eb-8299d4c33242,2025-08-29 14:30:29.546,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+ea7cdbd9-e735-4701-91d1-e3001a281d10,2025-08-29 14:32:39.41,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+ac9622be-babf-4b5f-b8cf-e2ee1da86db4,2025-08-29 14:38:23.756,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+8af4adbe-5103-4c42-830e-4c2411fdfbc5,2025-08-29 15:24:53.968,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+56ec0819-3e3d-4b5f-a464-1a051f744d7e,2025-08-29 21:03:50.372,DEVELOPER,admin,Cálculo de Costeo iniciada,Information
+b00588a1-cdf9-4036-b11c-f01a189a172d,2025-08-29 21:10:06.789,DEVELOPER,admin,Recalculo de Consumos iniciada,Information
+103f315e-3df8-4c8a-83d5-d741e682b44b,2025-08-29 21:10:42.547,DEVELOPER,admin,Recalculo de Consumos finalizada,Success
+41b6b9e8-721b-4cb3-a1a5-ffe105706435,2025-08-29 21:15:13.929,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+eb70bdc3-3da3-4795-b3ac-7c10d5215d82,2025-08-29 21:46:34.87,DEVELOPER,admin,Cálculo de Costeo finalizada,Success
+5bda2b52-0138-4583-af61-a84e4de1c28b,2025-08-29 21:54:52.246,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+491e2f9c-2893-4329-a7c7-e97cca8feae5,2025-09-01 15:27:11.756,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+7c2a8123-0ab6-4f73-967c-5c5cc00c8be6,2025-09-01 15:27:49.203,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+77e20b28-8374-4cdb-8323-cd0231785607,2025-09-01 15:29:29.604,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+00e6e26c-5115-448f-a489-1ba8b66f96e2,2025-09-01 15:33:02.82,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+683f02cb-fae9-4fa8-ab2c-26ad89273617,2025-09-01 15:35:12.899,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+604a5fef-da22-4f2a-9c93-934201200ecd,2025-09-01 16:27:21.954,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+48a6b070-d308-43ba-8848-c72e5ebaae08,2025-09-01 16:34:46.834,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+312cab7e-2385-4667-b5e9-626b2088d86f,2025-09-01 16:35:11.24,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+da984c75-3ef5-4245-8478-4e97085a65ae,2025-09-01 16:36:41.62,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+6fcc6717-2134-4f54-82f8-2ec4bca0406f,2025-09-01 16:39:31.031,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1e0ba1cf-c24b-4302-be63-926b6184c3b3,2025-09-01 16:40:55.208,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+8115684e-7c86-4e72-b119-702044b71f49,2025-09-01 16:41:54.218,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b7bc8aa1-8171-426d-83be-b81d43673064,2025-09-01 17:03:06.856,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+796826fb-bdc1-4c80-9154-de026a503b72,2025-09-01 17:02:45.367,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+969429c4-1ace-4679-923a-0fd8834a90e2,2025-09-01 17:55:08.835,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+fe92bc51-92e1-419c-bbf3-84bcb2f51605,2025-09-01 18:44:15.437,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+61810033-98cb-4e06-b20e-0965c33e75f9,2025-09-02 16:29:40.888,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+4c44e677-aab9-4a33-818f-bbfe05d9b2c7,2025-09-02 16:33:55.87,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+a82314b6-78de-49ae-a844-0e4939fd939a,2025-09-02 16:34:30.69,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+ec9f416a-9a5a-46d3-b37b-8e4c1f33c354,2025-09-02 16:41:14.802,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+c59628b7-ce96-4104-b40b-41b532705d95,2025-09-01 17:03:04.055,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+9253cb03-f8c5-44c3-9fe7-f1bc3c5e62c9,2025-09-01 17:09:53.722,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+ef926320-b5bc-4242-ab04-c3f2f89e6283,2025-09-01 18:17:50.68,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+32f04fbf-05bb-4e58-bbe2-7cd1158585d7,2025-09-01 18:22:07.975,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0be5d134-a159-461c-95f8-d01116d3564d,2025-09-01 20:37:44.92,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+46a02e57-2e5a-4e3d-833a-43ace823816c,2025-09-01 21:06:10.282,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+b2a94cbb-4232-4054-881f-28d85138a247,2025-09-01 21:25:17.966,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+4fcc1eec-45d1-4a47-a326-57c512e22dd3,2025-09-02 14:54:40.695,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+e992f3ab-ae98-473f-b92b-64d9d6766e6b,2025-09-02 15:22:26.714,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+2bf4c750-1114-4f4a-94ed-442b93fdb5b7,2025-09-02 16:44:53.098,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+51961c37-9202-4782-b843-bbedc4e4b913,2025-09-02 17:03:17.53,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a465a329-9f7d-402d-b222-0fbc3f436557,2025-09-02 17:26:22.502,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+4c79f99c-dae9-4294-b899-90579b869a24,2025-09-01 17:21:34.18,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8049399d-ca8e-43da-9b64-1e01709182a8,2025-09-01 17:51:37.301,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+c2ef1fc6-92dc-4554-bbfd-ab218eee656b,2025-09-01 17:52:04.989,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+8610239c-a9c9-40af-b2ce-eed956ee2b29,2025-09-01 17:54:36.646,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f0ef233a-0e0f-4053-86c3-4b720067fb4d,2025-09-01 18:06:13.479,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+ed45078f-ae8e-4f32-b208-852805857b77,2025-09-01 18:25:32.871,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+decad5c7-e35c-4b2d-8864-b6cb1a604cb6,2025-09-01 18:35:59.453,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+9c30fd32-fee9-44a4-8011-088dd307ac45,2025-09-01 18:41:01.3,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+ea29206c-0e68-44ed-ae26-41b8b5c4a968,2025-09-01 18:51:40.781,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+34de861b-d28a-4561-bdc6-47e214f46733,2025-09-01 20:36:41.28,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+4f39ffee-e48f-433a-b3b4-c68b739c6310,2025-09-01 20:59:09.864,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+42cbf928-4cc5-4f06-9dfc-7603ea290bb4,2025-09-01 21:11:20.241,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+df839fc3-00e6-4080-bfb4-fb447fb60e37,2025-09-01 21:40:44.677,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+6ed1cc8e-7451-4adf-b578-48e6419e947a,2025-09-01 22:14:06.961,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+d20d0463-99e0-45a5-a1e5-921dbc94459c,2025-09-01 22:44:40.385,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+5e030069-4a37-46a0-96c1-a34fbd7de179,2025-09-02 14:29:22.461,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+740fb503-e89d-4a52-8cd3-331aab5c475c,2025-09-02 15:23:26.565,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+c52cc8b8-e087-4251-a3a9-6d1f5838bcff,2025-09-02 15:29:55.094,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+e4861cb1-77de-465d-a9cb-ee033fd63220,2025-09-02 16:37:27.261,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+8316a7fe-0a03-4fdc-9cf5-33d619f4b036,2025-09-02 16:40:39.997,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+564c6b15-d8bc-4501-9823-e69be489d40e,2025-09-02 16:45:14.979,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+9aae580e-1af6-4c55-9dc8-a8452c71edea,2025-09-02 16:57:20.056,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f093ca51-8dc5-4f0e-ab0a-e91e7a826d26,2025-09-02 17:11:59.011,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+5fc8968c-6a95-4ec1-9470-3742593ca8da,2025-09-02 17:32:40.031,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b7eec90d-79df-43ae-a0f0-fa3ffd8d611b,2025-09-02 17:34:18.232,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+e08aff28-6acb-45b6-9e10-702383049bc3,2025-09-01 17:53:16.191,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+80b9beb0-a9c2-4cff-a560-183cb68d8fc4,2025-09-01 17:56:20.417,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+2edc1f0b-b8c1-4626-870f-7e50bb270df9,2025-09-01 18:30:30.251,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+23f9d199-1fad-4c41-809e-064cd76975fa,2025-09-01 22:02:11.506,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+bb02e97f-83da-4a9a-a0ac-5e404e3a2d4f,2025-09-01 22:25:51.553,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6c168750-e181-4cbc-af49-e5841310cdcd,2025-09-01 23:06:25.319,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+91705b0d-2e38-4370-8a48-a704eea9cc7c,2025-09-02 16:30:15.003,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+e5ee81d9-e125-4b5e-9f23-0abfbb959844,2025-09-02 16:31:00.317,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+19e18b21-768f-4a9b-9e00-9ca3f0e705e5,2025-09-02 16:39:02.931,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+eabaf82a-7b5c-4011-bf37-3508a94b072a,2025-09-02 16:43:19.806,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+60698270-b633-4ab5-b999-dcb9c10b340f,2025-09-02 16:48:56.511,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+64fd6c8e-70b4-4cf4-9caf-ae48b65be6db,2025-09-01 17:56:24.518,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+67b8bd01-af7b-4c79-95ca-ad36d3e25811,2025-09-01 18:43:16.336,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9cf1cfbe-a71c-4f26-b9b2-2ce71085b392,2025-09-01 20:40:46.908,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+7c45213f-e2f9-4752-bb47-3de8e4808996,2025-09-01 21:09:13.995,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+4b150fb4-0c72-4d09-9376-33b5af60bbd0,2025-09-01 21:42:08.488,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+fa041789-e84e-4245-8499-6e0e7a704275,2025-09-01 22:15:10.571,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+170ae461-a9a4-490c-92d5-4521f108b3dd,2025-09-01 22:56:01.957,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+47395eb9-64f5-4e7e-850b-3938ccbdefda,2025-09-02 14:27:08.648,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+9b74d772-c11f-4816-b474-b6b1fbe5e294,2025-09-02 14:35:59.682,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3fbb85e8-8506-4ac7-8e38-84876ad2c571,2025-09-02 14:46:18.244,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+fc967298-e553-435d-88b1-e80766731db3,2025-09-02 14:55:43.07,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+94ecb755-167d-4387-86b4-6119ca07ab4e,2025-09-02 15:28:53.284,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+cafd17e0-2262-467e-b164-272f67119f93,2025-09-02 16:38:54.176,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+1102fb15-95a7-43f4-9755-1ac6a3692caf,2025-09-02 17:28:30.169,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+4ca2cf22-4b91-4a84-a7b8-204f24457721,2025-09-01 18:05:13.379,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+6581e86e-eff2-4ea1-aec5-cf05fa3b95c9,2025-09-01 18:45:23.455,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+853d3c51-3bf9-4513-9b01-75d8d78464c9,2025-09-01 20:37:24.405,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+d8e9a1bd-c496-4012-bbe9-0c0ddeb7ce69,2025-09-01 20:46:11.991,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+0e372403-7cdd-44ee-8f95-788e023b4388,2025-09-01 20:47:18.802,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d8f2d764-2481-40fe-9a08-782074c1fd04,2025-09-01 20:59:04.68,NMATAMOROS,admin,Traslado Masivo iniciada,Information
+de3b5a2d-ad51-4c0b-94b6-7cb35dc6dd31,2025-09-01 21:12:15.729,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+6276368e-e0ba-4a8c-bb09-05582c35bb84,2025-09-01 21:12:31.29,NMATAMOROS,admin,Traslado Masivo finalizada,Success
+1e7db4ab-b8ec-406b-aa22-8037996c765e,2025-09-01 21:39:42.709,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+a109f5aa-a9c3-49da-8107-48857b46eb20,2025-09-01 21:41:18.47,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+17e11d54-7cd3-4bd8-bdfb-79951a54e617,2025-09-01 21:41:33.555,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+4cfb51a3-0773-4de1-a967-4c8cf438a8ce,2025-09-01 21:43:02.825,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+7386f5d8-21c3-43db-a4c5-f791a3131bc9,2025-09-01 21:50:59.289,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+d6f15c8b-43ca-46c4-bba4-b414f81ffddb,2025-09-01 21:58:06.249,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+429c7c13-ebdb-429a-bf46-f2ab6a1a2ff0,2025-09-01 22:10:31.107,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b3ff829d-7c51-4e9a-9e4a-395e8795ee4e,2025-09-01 22:54:58.779,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+faede563-e7f1-43e0-aa85-3c976a6f016a,2025-09-01 23:11:40.54,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+9d7fa717-3432-4c12-afd0-4dc0da96dcdc,2025-09-02 14:26:00.41,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+6cd91355-3092-4d22-99d1-c7f3e07baf4f,2025-09-02 14:38:00.119,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+b6f6b819-d270-4aef-93d8-926499434bdd,2025-09-02 14:57:48.27,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+f75e0017-d24c-40c6-a1e5-dcec1ad47472,2025-09-02 14:58:49.305,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+35459d71-9dda-4da5-96d3-7eac081be72a,2025-09-02 15:21:23.937,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+0a0d577e-a81a-4c5f-ba50-9dff367933ff,2025-09-02 15:28:41.849,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+cc2df2e8-05b7-4d56-8c4b-51b14c25ae88,2025-09-02 15:41:14.963,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5e53eb50-db86-4133-81ce-0d411847890c,2025-09-02 15:42:17.02,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f92c2b39-4f50-402b-9db8-452fa2a42346,2025-09-02 16:30:29.702,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+90329ff4-b33e-4af7-9962-d762c034d9d2,2025-09-02 16:38:01.022,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+e139acaf-d279-4cb7-99ce-52076829f2b0,2025-09-02 16:43:48.806,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+278409bf-1910-4933-8a02-4485040b9a28,2025-09-02 16:49:08.259,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+a368c864-2519-470c-b657-93fa5a8f5aa2,2025-09-02 16:49:17.511,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+396db932-48fa-46aa-8ca8-fbffa7ce0b62,2025-09-02 16:49:28.099,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+b9588d0f-321f-4a80-a303-3d242a093349,2025-09-02 17:03:31.224,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+161506a7-50c4-4fbd-bef7-446659242cab,2025-09-02 17:09:35.846,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+42836969-fbac-4950-ad33-9b8d210a9362,2025-09-02 17:20:43.456,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+f447edb8-6cf0-42ad-bca1-b23f73fe8f70,2025-09-02 17:21:27.458,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+9af77de8-b0a4-4c30-8100-1bbc9fdf3fdc,2025-09-02 17:24:19.18,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+6982683d-ce36-42ac-84f9-6c86fe06abc7,2025-09-02 17:25:13.086,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+5978075e-4cae-474a-bfa6-deb7e8512444,2025-09-02 17:25:54.077,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+0fd31236-056d-496a-a2a9-2cb6a4fbd9d4,2025-09-02 17:26:49.807,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+5724daf8-3d2f-4229-9965-f8ce09c096fa,2025-09-02 17:42:52.579,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+bb9d5d72-879d-4db6-a309-e88c4a7599ee,2025-09-02 17:43:58.362,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+73bffa44-5155-428a-bca2-cfbc609f816e,2025-09-02 17:43:59.732,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+20a3dec6-9d5c-4fe4-ac1f-2abf3e946cb4,2025-09-02 17:44:24.74,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+80e75a22-740e-405b-84e3-70d04e4e22fd,2025-09-02 17:48:47.345,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+c76b57d1-33a6-48e1-a61e-559c6c028d27,2025-09-02 17:49:57.494,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+d600fdbe-a85b-47c7-8a86-ec6aa6f15f01,2025-09-02 17:51:51.761,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+0e04cdf1-790b-41df-bee6-6cd08498022e,2025-09-02 17:54:39.947,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+2a2c29e0-cf12-4de1-924d-1fa164adce5b,2025-09-02 18:08:12.081,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+ffb459ff-e38f-4020-84a5-65a442186ac7,2025-09-02 18:10:20.654,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+9c051280-1e78-4c10-b89a-4efcc4c5f70d,2025-09-02 18:12:10.993,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3290a388-721c-4978-98fc-2af7b2d08fbb,2025-09-02 19:22:13.394,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+db12bf6d-6490-49a3-9898-60b429126b83,2025-09-02 19:23:32.102,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+07ab91e5-d04b-4e75-a33a-54abe378488e,2025-09-02 19:23:35.976,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+9644eecc-247c-4a9b-902a-16617b8f435e,2025-09-02 19:23:40.589,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+b7870cde-1909-42e9-898a-b258b8b28816,2025-09-02 19:28:53.862,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+f30e23d1-aa6b-4f30-8c3f-3466d94622b9,2025-09-02 19:44:59.129,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+e738e475-c299-4311-8b09-a3421eec67d7,2025-09-02 19:48:41.592,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+40989e2b-daeb-400a-a732-1e74c0ad04d0,2025-09-02 19:57:44.878,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+b70df87c-0bcc-4ff6-bbe6-19a7c67d82ea,2025-09-02 19:58:04.705,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+ee565b8c-1baf-4a0f-aa79-39a9c4b5ba19,2025-09-02 19:59:53.501,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+e6c4e88e-1da2-4d41-9266-cbe5f331d3e0,2025-09-02 21:38:23.575,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+96e35335-b7b5-4544-a3a1-1e981fc7fed3,2025-09-02 22:12:35.853,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+3ddeca49-cb92-4b7f-8f9f-6c41e604cd81,2025-09-03 13:54:31.514,DEVELOPER,admin,Sincronización de Inventario iniciada,Information
+617ba2ff-4822-4cc9-8b15-903d95fec3e3,2025-09-02 20:44:09.117,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+033a6597-b217-4e5a-8c18-b21dbc5ec940,2025-09-02 20:46:26.364,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a4c2b366-4bd8-4c49-b97d-2d65da04f88a,2025-09-02 22:29:40.274,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+39ec7a4b-6ca6-4c4a-9ce8-47b1a6099d90,2025-09-02 22:46:06.773,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+491649ab-4d91-4ecd-83bd-9988d4c22399,2025-09-02 20:45:12.619,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+e00eb825-cc4d-4a73-a233-45801edfad83,2025-09-02 20:51:48.953,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+d81d1d1c-a92f-4c35-8f56-3f798b456f03,2025-09-02 21:04:32.322,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+3e4f504a-62d4-4641-a83f-a5a58feb45a7,2025-09-02 21:04:51.009,NMATAMOROS,admin,Recalculo de Consumos iniciada,Information
+930515ae-1f75-41e7-9ef8-1b61cad01ba9,2025-09-02 21:27:33.759,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+29f1ba36-1a4d-47c4-955c-45486291b87a,2025-09-02 21:31:40.36,NMATAMOROS,admin,Cálculo de Costeo finalizada,Success
+ba2e887e-3e7f-4baa-94c9-ebc59d76fce5,2025-09-02 21:39:43.218,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+f947d58e-003e-4805-9828-150e506045c0,2025-09-02 22:07:24.451,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+2ebdf0d4-70c7-4000-b6e2-a061987c21c8,2025-09-02 22:15:44.804,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+15df1c05-8afd-4fbc-aadb-4e7804540070,2025-09-02 20:53:16.299,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+c58d59dc-4d04-4c76-92ba-65476ee24c6c,2025-09-02 20:54:19.715,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+6f6a515f-ab2f-49f0-8562-1df63ec2bcaa,2025-09-02 21:56:03.331,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+997512f8-cfe1-4eef-b120-5f2a2a271c00,2025-09-02 22:24:09.599,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+a86b7c7e-85bc-4715-a719-cffb32a9a118,2025-09-03 13:55:31.581,DEVELOPER,admin,Sincronización de Inventario finalizada,Success
+4099973b-f3d3-42ae-9b52-4607e0e127f6,2025-09-02 21:05:12.182,NMATAMOROS,admin,Recalculo de Consumos finalizada,Success
+142a5348-7ec6-404c-88d8-dc7f6ee23c5c,2025-09-02 22:05:31.429,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+1959d07e-ff72-4668-893b-db32ca259e63,2025-09-02 22:06:29.607,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+25a510ba-7714-420b-a2e6-6750e87efdd2,2025-09-02 22:23:50.29,NMATAMOROS,admin,Cálculo de Tarifas iniciada,Information
+530d4b94-ac7d-4ee0-b4bd-f5cd9f632520,2025-09-02 21:18:20.643,NMATAMOROS,admin,Cálculo de Costeo iniciada,Information
+63b11308-c39b-44a1-9571-66eae112202c,2025-09-02 21:41:48.866,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+5a7eaec7-db62-459a-b2b4-bb5dc484d7b1,2025-09-02 21:54:04.799,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+166e0ca9-bbc6-48ae-a078-7ecef1a0beac,2025-09-02 22:16:04.874,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+7379ca52-c546-4d61-be6b-2a3351a9afcd,2025-09-02 22:23:51.461,NMATAMOROS,admin,Cálculo de Tarifas finalizada,Success
+536455f5-7b91-4fab-975f-3ed028d61624,2025-09-02 22:33:16.148,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+aa2b2993-d311-49e4-9608-6354aa365999,2025-09-02 22:42:58.762,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+44f0a4f6-3594-4bed-9a0a-9195607ce994,2025-09-02 21:29:25.307,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+b70fc8d9-e7e3-4ca8-8145-aeeaef6b9138,2025-09-02 21:35:48.755,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+4242795d-c206-404d-8e4b-8e7865560990,2025-09-02 21:36:15.164,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+8c97f760-a2e1-4b7c-be24-6702e5c72912,2025-09-02 21:43:13.809,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+b3b19778-395e-4ccd-b206-97cd15fd89a6,2025-09-02 21:46:06.891,NMATAMOROS,admin,Recalculo Traslado finalizada,Success
+3989df67-7636-451e-b7fe-0b98d85c2e6e,2025-09-02 21:55:10.27,NMATAMOROS,admin,Sincronización de Inventario finalizada,Success
+aa3cd314-9796-4b8d-8119-24db410d13eb,2025-09-02 22:14:43.005,NMATAMOROS,admin,Sincronización de Inventario iniciada,Information
+33b369da-3d4a-458c-bce1-f9aaf6d67993,2025-09-02 22:29:54.808,NMATAMOROS,admin,Recalculo Traslado iniciada,Information
+a61d28a2-2702-44ec-bdf2-b84c70c0ba8f,2025-09-03 22:49:00.287,CBERRIOS,admin,Recalculo de Depreciacion Acumulada iniciada,Information
+b132376b-8c88-4f1a-b42e-1eab52600a74,2025-09-03 22:49:01.406,CBERRIOS,admin,Recalculo de Depreciacion Acumulada finalizada,Success
+6f61b355-88c3-45c5-b205-617932ba0826,2025-09-03 22:49:49.748,CBERRIOS,admin,Recalculo de Depreciacion Acumulada iniciada,Information
+be7f1a12-d831-48c5-b3ea-78e9acfeb4fa,2025-09-03 22:49:50.886,CBERRIOS,admin,Recalculo de Depreciacion Acumulada finalizada,Success

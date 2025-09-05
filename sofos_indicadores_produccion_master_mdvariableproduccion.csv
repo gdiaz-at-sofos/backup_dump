@@ -1,0 +1,67 @@
+codigo,unidadproductiva_codigo,descripcion,index,porlote
+hembrasIniciales,DES,Desarrollo - Hembras Iniciales,0,t
+machosIniciales,DES,Desarrollo - Machos Iniciales,5,t
+mortalidadHembras,DES,Desarrollo - Mortalidad Hembras,10,t
+mortalidadMachos,DES,Desarrollo - Mortalidad Machos,15,t
+seleccionHembras,DES,Desarrollo - Seleccion Hembras,20,t
+seleccionMachos,DES,Desarrollo - Seleccion Machos,25,t
+costoGallina,DES,Desarrollo - Costo de Gallina,30,t
+costoGallo,DES,Desarrollo - Costo de Gallo,35,t
+alimentoGallina,DES,Desarrollo - Alimento de Gallina,40,t
+alimentoGallo,DES,Desarrollo - Alimento de Gallo,45,t
+hembrasInicialesPorLote,POS,Postura - Hembras Iniciales por lote,50,t
+machosInicialesPorLote,POS,Postura - Machos Iniciales por lote,55,t
+mortalidadHembrasPorLote,POS,Postura - Mortalidad Hembras por lote,60,t
+mortalidadMachosPorLote,POS,Postura - Mortalidad Machos por lote,65,t
+seleccionHembrasPorLote,POS,Postura - Seleccion Hembras por lote,70,t
+seleccionMachosPorLote,POS,Postura - Seleccion Machos por lote,75,t
+huevosTotalesPorLote,POS,Postura - Huevos Totales por lote,80,t
+huevosIncubablesPorLote,POS,Postura - Huevos Incubables por lote,85,t
+hembrasIniciales,POS,Postura - Hembras Iniciales,90,
+machosIniciales,POS,Postura - Machos Iniciales,95,
+mortalidadHembras,POS,Postura - Mortalidad Hembras,100,
+mortalidadMachos,POS,Postura - Mortalidad Machos,105,
+seleccionHembras,POS,Postura - Seleccion Hembras,110,
+seleccionMachos,POS,Postura - Seleccion Machos,115,
+huevosIncubables,POS,Postura - Huevos Incubables,120,
+huevosDescartados,POS,Postura - Huevos Descartados,125,
+alimento,POS,Postura - Alimento,130,
+costoPostura,POS,Postura - Costo de Postura,135,
+huevoDesechado,INC,Incubadora - Huevo Desechado,140,
+huevoRecibido,INC,Incubadora - Huevo Recibido,145,
+huevoMaquina,INC,Incubadora - Huevo a Maquina,150,
+huevoNoNacido,INC,Incubadora - Huevo no Nacido,155,
+incubabilidad,INC,Incubadora - Incubabilidad,160,
+descartePollito,INC,Incubadora - Descarte de Pollito,165,
+pollitoNacimientoPrimera,INC,Incubadora - Pollito Nacimiento de Primera,170,
+avesIniciadas,ENG,Engorde - Aves Iniciadas,175,
+avesCosechadas,ENG,Engorde - Aves Cosechadas,180,
+librasAlimento,ENG,Engorde - Libras de Alimento,185,
+librasAveViva,ENG,Engorde - Libras de Aves Vivas,190,
+pesoPromedio,ENG,Engorde - Peso Promedio,195,
+edadPolloEnPie,ENG,Engorde - Edad Pollo En Pie,200,
+ahogados,ENG,Engorde - Ahogados,205,
+descartados,ENG,Engorde - Descartados,210,
+avesCosechadas,PPP,Planta Proceso - Aves Cosechadas,215,
+ahogados,PPP,Planta Proceso - Ahogados,220,
+descartados,PPP,Planta Proceso - Descartados,225,
+compraAveViva,PPP,Planta Proceso - Compra de Ave Viva,230,
+maquiladoAves,PPP,Planta Proceso - Maquilado de Aves,235,
+gallina,PPP,Planta Proceso - Gallina,240,
+ventaAveViva,PPP,Planta Proceso - Venta de Ave Viva,245,
+librasAveViva,PPP,Planta Proceso - Libras de Aves Vivas,250,
+librasAhogados,PPP,Planta Proceso - Libras de Ahogados,255,
+librasDescartados,PPP,Planta Proceso - Libras de Descartados,260,
+librasVentaAveViva,PPP,Planta Proceso - Libras de Venta de Ave Viva,265,
+librasGallinas,PPP,Planta Proceso - Libras de Gallinas,270,
+librasSP,PPP,Planta Proceso - Libras de SP,275,
+librasGallinaProcesada,PPP,Planta Proceso - Libras de Gallina Procesada,280,
+librasMenudo,PPP,Planta Proceso - Libras de Menudo,285,
+librasSubProducto,PPP,Planta Proceso - Libras de Sub Producto,290,
+librasEntrantes,PPP,Planta Proceso - Libras Entrantes a Planta de Proceso,295,
+librasSPProcesadas,PPP,Planta Proceso - Libras de SP Procesadas,300,
+librasGallinaProcesar,PPP,Planta Proceso - Libras de Gallina para Procesar,305,
+librasCarcasa,PPP,Planta Proceso - Libras de Carcasa,310,
+rendimientoAceitePollo,PPH,Planta Harina - Rendimiento de Aceite de Pollo,315,
+rendimientoHarinaViscera,PPH,Planta Harina - Rendimiento de Harina de Viscera,320,
+rendimientoHarinaPlumaSangre,PPH,Planta Harina - Rendimiento de Harina de Pluma y Sangre,325,

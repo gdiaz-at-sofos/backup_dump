@@ -1,0 +1,11 @@
+codigo,descripcion
+YB01,Proveedores Nacionales
+YB02,Acredores Fiscal/Parafiscales
+YB03,Empleados
+YB04,Directivos / Socios
+YB05,Transportista
+YBAC,Proveedor(compañías afiliadas)
+YBCD,Centro de Distribución
+YBIV,Proveedor Extranjero
+YBOV,Provedor Esporadico
+YBVE,Otros Proveedores

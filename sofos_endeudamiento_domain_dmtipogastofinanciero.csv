@@ -1,0 +1,5 @@
+codigo,descripcion,unidadmedida_codigo
+TI,Tasa de Interés,PORJ
+CB,Comisión Bancaria,PORJ
+GB,Gasto Bancario,MOND
+RE,Recargo,PORJ

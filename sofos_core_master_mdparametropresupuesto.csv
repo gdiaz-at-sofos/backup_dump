@@ -1,0 +1,19 @@
+createdat,createdby,modifiedat,modifiedby,codigo,index,descripcion,valor,tipo,seccion
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,ejercicioPresupuesto,2,Ejercicio Presupuesto,2025,Constant,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,ejercicioFinal,3,Ejercicio Final,2026,Constant,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,periodoPresupuesto,5,Periodo Presupuesto,12,Constant,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,escenarioPresupuesto,8,Escenario Presupuesto,1,Constant,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,rescateAgotamiento,16,Valor Rescate Agotamiento,3.0,Float,financiero
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,trema,17,TREMA,0.1354,Float,financiero
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,tasaImpuesto,18,Tasa de Impuesto,0.3,Float,financiero
+2025-07-21 14:19:11.889,anonymous,2025-07-21 14:19:11.889,anonymous,porcentajeValorResidual,19,Porcentaje Valor Residual,0.01,Float,financiero
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.698,NMATAMOROS,periodoFinal,6,Periodo Final,12,Select=DmMeses,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.701,NMATAMOROS,periodoBase,4,Periodo Base,12,Select=DmMeses,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.7,NMATAMOROS,ejercicioBase,1,Ejercicio Base,2024,Date,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.712,NMATAMOROS,monedaPrincipal,10,Moneda Principal,HNL,Select=Currencies,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.713,NMATAMOROS,groupNameJerarquiaEstandard,11,Grupo Jerarquía Centros de Costo,1000,Integer,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.796,NMATAMOROS,groupNameJerarquiaCeBeCo,12,Grupo Jerarquía Centros de Beneficio,0001,Integer,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.798,NMATAMOROS,orgVentas,14,Organización de Ventas,1000,Select=OsOrganizacionVentas,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-07-22 16:26:27.801,NMATAMOROS,centrosCostoComisiones,15,Centros de Costo Comisiones,"1112100001,1112100002,1111200003,1112200001,1112200002,1111100001,1112400001",MultiComboBox=OsCentroCosto,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-08-27 22:22:11.865,DBULNES,sociedad,9,Sociedad FI,1000,Select=OsSociedadFi,presupuesto
+2025-07-21 14:19:11.889,anonymous,2025-08-27 22:22:11.865,DBULNES,coArea,13,Sociedad CO,1000,Select=OsSociedadCo,presupuesto

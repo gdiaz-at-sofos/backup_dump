@@ -1,0 +1,23 @@
+codigo,descripcion
+N120,Vencimiento 120 días
+N150,Vencimiento 150 días
+N180,Vencimiento 180 días
+N210,Vencimiento 210 días
+N240,Vencimiento 240 días
+N270,Vencimiento 270 días
+N300,Vencimiento 300 días
+N330,Vencimiento 330 días
+N360,Vencimiento 360 días
+NT00,Pagado a la recepción
+NT03,Vencimiento 03 días
+NT05,Vencimiento 05 días
+NT07,Vencimiento 07 días
+NT08,Vencimiento 08 días
+NT15,Vencimiento 15 días
+NT20,Vencimiento 20 días
+NT30,Vencimiento 30 días
+NT40,Vencimiento 40 días
+NT45,Vencimiento 45 días
+NT60,Vencimiento 60 días
+NT75,Vencimiento 75 días
+NT90,Vencimiento 90 días

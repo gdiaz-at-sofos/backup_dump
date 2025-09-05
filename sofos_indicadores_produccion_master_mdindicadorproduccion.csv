@@ -1,0 +1,72 @@
+codigo,unidadproductiva_codigo,descripcion,index,porlote
+avesColocadas,DES,Desarrollo - Aves Colocadas,0,t
+mortalidad,DES,Desarrollo - Mortalidad,5,t
+%mortalidad,DES,Desarrollo - % Mortalidad,10,t
+%mortalidadHembras,DES,Desarrollo - % Mortalidad Hembras,15,t
+%mortalidadMachos,DES,Desarrollo - % Mortalidad Machos,16,t
+seleccion,DES,Desarrollo - Seleccion,20,t
+%seleccion,DES,Desarrollo - % Seleccion,25,t
+%seleccionHembras,DES,Desarrollo - % Seleccion Hembras,30,t
+%seleccionMachos,DES,Desarrollo - % Seleccion Machos,35,t
+gallinaReproductora,DES,Desarrollo - Gallina Reproductora,40,t
+galloReproductor,DES,Desarrollo - Gallo Reproductor,45,t
+avesFinales,DES,Desarrollo - Aves Finales,50,t
+totalCosto,DES,Desarrollo - Total Costo,55,t
+totalCostoPollona,DES,Desarrollo - Costo Total de Pollona,60,t
+totalAlimento,DES,Desarrollo - Total Alimento,65,t
+conversionAlimenticiaHembras,DES,Desarrollo - Conversion Alimenticia Hembras,70,t
+conversionAlimenticiaMachos,DES,Desarrollo - Conversion Alimenticia Machos,75,t
+conversionAlimenticia,DES,Desarrollo - Conversion Alimenticia,80,t
+avesColocadasPorLote,POS,Postura - Aves Colocadas por lote,85,t
+mortalidadPorLote,POS,Postura - Mortalidad por lote,90,t
+%mortalidadPorLote,POS,Postura - % Mortalidad por lote,95,t
+%mortalidadHembrasPorLote,POS,Postura - % Mortalidad Hembras por lote,100,t
+%mortalidadMachosPorLote,POS,Postura - % Mortalidad Machos por lote,101,t
+seleccionPorLote,POS,Postura - Seleccion por lote,105,t
+%seleccionPorLote,POS,Postura - % Seleccion por lote,110,t
+%seleccionHembrasPorLote,POS,Postura - % Seleccion Hembras por lote,115,t
+%seleccionMachosPorLote,POS,Postura - % Seleccion Machos por lote,120,t
+gallinaEnPie,POS,Postura - Gallina en Pie,125,t
+galloEnPie,POS,Postura - Gallo en Pie,130,t
+huevoTotalDivAveAlojadaPorLote,POS,Postura - Huevo Total / Ave Alojada por lote,135,t
+huevoIncDivAveAlojadaPorLote,POS,Postura - Huevo Incubable / Ave Alojada por lote,140,t
+cajaHuevoPorLote,POS,Postura - Cajas de Huevos por Lote,145,t
+avesIniciadas,POS,Postura - Aves Iniciadas en el Mes,150,
+mortalidad,POS,Postura - Mortalidad Postura,160,
+%mortalidad,POS,Postura - % Mortalidad Postura,165,
+%mortalidadHembras,POS,Postura - % Mortalidad Hembras Postura,170,
+%mortalidadMachos,POS,Postura - % Mortalidad Machos Postura,171,
+seleccion,POS,Postura - Seleccion Postura,175,
+%seleccion,POS,Postura - % Seleccion Postura,180,
+%seleccionHembras,POS,Postura - % Seleccion Hembras Postura,185,
+%seleccionMachos,POS,Postura - % Seleccion Machos Postura,190,
+huevoTotalDivAveAlojada,POS,Postura - Huevo Total / Ave Alojada Postura,195,
+huevoIncDivAveAlojada,POS,Postura - Huevo Incubable / Ave Alojada Postura,200,
+cajaHuevo,POS,Postura - Cajas de Huevos Postura,205,
+conversionCajaHuevo,POS,Postura - Conversion de Cajas de Huevos,210,
+costoCajaHuevo,POS,Postura - Costo de Caja de Huevo,215,
+costoUnitarioHuevo,POS,Postura - Costo Unitario del Huevo,220,
+%huevoDesechado,INC,Incubadora - % Huevo Desechado Incubadora,225,
+%huevoMaquina,INC,Incubadora - % Huevo a Maquina,230,
+%huevoNoNacido,INC,Incubadora - % Huevo No Nacido,235,
+%incubabilidad,INC,Incubadora - % Incubabilidad,240,
+%descarteDePollito,INC,Incubadora - % Descarte de Pollito,245,
+%pollitoNacimientoPrimera,INC,Incubadora - % Pollito Nacimiento de Primera,250,
+mortalidad,ENG,Engorde - Mortalidad,255,
+conversion,ENG,Engorde - Conversion Engorde,260,
+pesoPromedio,ENG,Engorde - Peso Promedio,265,
+edadPolloEnPie,ENG,Engorde - Edad Pollo En Pie,270,
+%mermaAhogados,ENG,Engorde - % Merma de Ahogados,275,
+%mermaDescartados,ENG,Engorde - % Merma de Descartados,280,
+unidadesRecibidasGranjas,PPP,Planta Proceso - Unidades Recibidas de Granjas,285,
+librasAvesVivasProcesar,PPP,Planta Proceso - Libras de Aves Vivas para Procesar,290,
+librasTotalesProcesar,PPP,Planta Proceso - Libras Totales a Procesar,295,
+librasProcesadas,PPP,Planta Proceso - Libras Procesadas,300,
+rendimiento,PPP,Planta Proceso - Rendimiento,305,
+%menudoAprovechado,PPP,Planta Proceso - % Menudo Aprovechado,310,
+%rendimientoSP,PPP,Planta Proceso - % Rendimiento SP,315,
+%rendimientoGallina,PPP,Planta Proceso - % Rendimiento Gallina,315,
+%carcasa,PPP,Planta Proceso - % Carcasa,320,
+rendimientoAceitePollo,PPH,Planta Harina - Rendimiento de Aceite de Pollo,325,
+rendimientoHarinaViscera,PPH,Planta Harina - Rendimiento de Harina de Viscera,330,
+rendimientoHarinaPlumaSangre,PPH,Planta Harina - Rendimiento de Harina de Pluma y Sangre,335,

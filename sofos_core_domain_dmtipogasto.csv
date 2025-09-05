@@ -1,0 +1,17 @@
+createdat,createdby,modifiedat,modifiedby,codigo,descripcion,apporigin,tipodistribucion_codigo,historico,syncs4
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOALQUIL,Alquiler,GTODISTRIBUIBLE,M2,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOENERGI,Energía eléctrica,GTODISTRIBUIBLE,KW,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOIMPIMU,Impuesto sobre inmueble,GTODISTRIBUIBLE,IM,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,SEGPATRIM,Seguridad patrimonial,GTODISTRIBUIBLE,SE,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOSEGURVE,Seguro vehículo,GTODISTRIBUIBLE,SGV,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOSEGURIN,Seguro contra incendio,GTODISTRIBUIBLE,SGI,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,SEGINDUST,Seguridad industrial,GTODISTRIBUIBLE,SEI,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTONOMIN,Gasto nómina,GTORRHH,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,HRSEXTRAS,Horas extras,GTORRHH,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOCOMI,Gastos de Comisiones,GTORRHH,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOTECNOL,Gasto tecnológico,GTORRHH,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTONODIST,Gasto no distribuible,GTONODISTRI,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,COSTEO,Costos de Producción,COSTEO,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOAMORTI,Gastos Amortización,GTOAMORTI,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,GTOSECUN,Gastos Secundarios,GTOSECUN,,t,f
+2025-07-21 14:19:11.828,anonymous,2025-07-21 14:19:11.828,anonymous,PROVEEDOR,Proveedor,ACTIVO,,t,f
