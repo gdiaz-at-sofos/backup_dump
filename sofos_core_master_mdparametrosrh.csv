@@ -1,22 +1,22 @@
 codigo,concepto_codigo,descripcion,unidad,escenario,ejercicio,bloqueouser,bloqueoadmin
-VSMANOACTU,CONCINDBAS,Valor Salario Mínimo Base,HNL,0,,f,f
-VSMGRANACT,CONCINDBAS,Valor Salario Mínimo Base (Granjas),HNL,0,,f,f
-PINCRESAMI,CONCINDBAS,Porcentaje Incremento Salario Mínimo Base,PORCENTAJE,0,,f,f
+VSMANOACTU,CONCINDBAS,Valor Salario MÃ­nimo Base,HNL,0,,f,f
+VSMGRANACT,CONCINDBAS,Valor Salario MÃ­nimo Base (Granjas),HNL,0,,f,f
+PINCRESAMI,CONCINDBAS,Porcentaje Incremento Salario MÃ­nimo Base,PORCENTAJE,0,,f,f
 PINCRESUSA,CONCINDBAS,Porcentaje Incremento de Sueldos y Salario,PORCENTAJE,0,,f,f
-PINCRESMGR,CONCINDBAS,Porcentaje Incremento Salario Mínimo (Granjas),PORCENTAJE,0,,f,f
-VTMPSERV10,CONCANTIGO,Tiempo de servicio 10 años,HNL,0,,f,f
-VTMPSERV15,CONCANTIGO,Tiempo de servicio 15 años,HNL,0,,f,f
-VTMPSERV20,CONCANTIGO,Tiempo de servicio 20 años,HNL,0,,f,f
-VTMPSERV25,CONCANTIGO,Tiempo de servicio 25 años,HNL,0,,f,f
-VTMPSERV30,CONCANTIGO,Tiempo de servicio 30 años,HNL,0,,f,f
-VTMPSERV40,CONCANTIGO,Tiempo de servicio 40 años,HNL,0,,f,f
+PINCRESMGR,CONCINDBAS,Porcentaje Incremento Salario MÃ­nimo (Granjas),PORCENTAJE,0,,f,f
+VTMPSERV10,CONCANTIGO,Tiempo de servicio 10 aÃ±os,HNL,0,,f,f
+VTMPSERV15,CONCANTIGO,Tiempo de servicio 15 aÃ±os,HNL,0,,f,f
+VTMPSERV20,CONCANTIGO,Tiempo de servicio 20 aÃ±os,HNL,0,,f,f
+VTMPSERV25,CONCANTIGO,Tiempo de servicio 25 aÃ±os,HNL,0,,f,f
+VTMPSERV30,CONCANTIGO,Tiempo de servicio 30 aÃ±os,HNL,0,,f,f
+VTMPSERV40,CONCANTIGO,Tiempo de servicio 40 aÃ±os,HNL,0,,f,f
 VALBONOESC,CONBONESOP,Valor Bono Escolar,HNL,0,,f,f
 VALBONOEGR,CONBONESOP,Valor Bono Escolar (Granja),HNL,0,,f,f
 PIVMEMPLEA,CONCAIHSSO,Porcentaje IVM,PORCENTAJE,0,,f,f
 TIVMEMPLEA,CONCAIHSSO,Techo IVM,HNL,0,,f,f
 PSASEMPLEA,CONCAIHSSO,Porcentaje Enfermedad y Maternidad + Riesgo Profesional,PORCENTAJE,0,,f,f
 TSASEMPLEA,CONCAIHSSO,Techo Enfermedad y Maternidad + Riesgo Profesional,HNL,0,,f,f
-PFACTPROVI,CONCFINQUO,Porcentaje Provisión de Finiquitos Laborales,PORCENTAJE,0,,f,f
+PFACTPROVI,CONCFINQUO,Porcentaje ProvisiÃ³n de Finiquitos Laborales,PORCENTAJE,0,,f,f
 PAPORINFOP,CONCINFOPO,Porcentaje Aporte INFOP,PORCENTAJE,0,,f,f
 PAPORTERAP,CONCRAPFOO,Porcentaje Aporte RAP-FOSOVI,PORCENTAJE,0,,f,f
 PSEGUVIDA1,CONCSEGVIO,Porcentaje Seguro de Vida 1,PORCENTAJE,0,,f,f
@@ -25,5 +25,5 @@ PDECTERCER,CONCDECTRO,Porcentaje DecimoTercer,PORCENTAJE,0,,f,f
 PDECCUARTO,CONCDECCRO,Porcentaje DecimoCuarto,PORCENTAJE,0,,f,f
 MESASEGMED,CONCSGMEDO,Mes de Aumento Seguro Medico,BOOLEAN,0,,f,f
 PARAPSOLID,RAPFOVIFPO,Porcentaje Aporte RAP - Solidaria (IVM),PORCENTAJE,0,,f,f
-VSMBBANCOS,PRIMAANTPO,Valor Salario Mínimo Base escala mas Alta,HNL,0,,f,f
-MAXDECRELA,PRIMAANTPO,Porcentaje Máximo deducible Reserva laboral,PORCENTAJE,0,,f,f
+VSMBBANCOS,PRIMAANTPO,Valor Salario MÃ­nimo Base escala mas Alta,HNL,0,,f,f
+MAXDECRELA,PRIMAANTPO,Porcentaje MÃ¡ximo deducible Reserva laboral,PORCENTAJE,0,,f,f

@@ -1,11 +1,11 @@
 id,createdat,createdby,modifiedat,modifiedby,codigo,descripcion,producto_codigo,observacion
-5572afc9-071e-4b2c-ae83-f51clas0jumb,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HJUMBO,Huevo Jumbo,17000000,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0suci,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HSUCIO,Huevo Sucio,17000001,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0pewe,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HPEWEE,Huevo Pewee,17000002,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0roto,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HROTO,Huevo Roto,17000003,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0incu,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HINCU,Huevo Incubable,17000004,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0dese,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HDESECHO,Huevo Desecho,17000005,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0comp,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HINCUCOM,Huevo Incubable Comprado,17000006,Usado en Requerimiento Avícola de Huevo y Agotamiento
-5572afc9-071e-4b2c-ae83-f51clas0defo,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HDEFORME,Huevo Deforme,17000010,Usado en Requerimiento Avícola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0jumb,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HJUMBO,Huevo Jumbo,17000000,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0suci,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HSUCIO,Huevo Sucio,17000001,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0pewe,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HPEWEE,Huevo Pewee,17000002,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0roto,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HROTO,Huevo Roto,17000003,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0incu,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HINCU,Huevo Incubable,17000004,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0dese,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HDESECHO,Huevo Desecho,17000005,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0comp,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HINCUCOM,Huevo Incubable Comprado,17000006,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
+5572afc9-071e-4b2c-ae83-f51clas0defo,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,HDEFORME,Huevo Deforme,17000010,Usado en Requerimiento AvÃ­cola de Huevo y Agotamiento
 5572afc9-071e-4b2c-ae83-f51clasgalph,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,GALLAPIE,Gallina en Pie,14000005,Usado en Costeo de Productos como material de consumo de Postura
 5572afc9-071e-4b2c-ae83-f51clasgalpm,2025-07-21 14:19:11.866,anonymous,2025-07-21 14:19:11.866,anonymous,GALLOPIE,Gallo en Pie,14000000,Usado en Costeo de Productos como material de consumo de Postura

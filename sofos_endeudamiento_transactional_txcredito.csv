@@ -1,1 +1,2 @@
 id,createdat,createdby,modifiedat,modifiedby,lineacredito_codigo,codigo,acreedor_codigo,fechainicio,fechafinal,plazomes,montoprestamoumb_code,montoprestamo,saldoinicialumb_code,saldoinicial,tipotiprimario_codigo,tipotisecundario_codigo,tipore_codigo,observacion,escenario,isedited
+6cc07ff1-ffd1-43ef-82d4-01a61045ceee,2025-09-10 16:33:42.599,CBERRIOS,2025-09-10 16:33:42.599,CBERRIOS,FMP,666420164,200001,2025-01-01,2025-05-01,4,HNL,1200000.0000,HNL,1200000.0000,TI010,TI011,RE001,"",1,f

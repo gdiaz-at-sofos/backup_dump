@@ -5,27 +5,27 @@ sofoctcebe001,Maestro de Centros de Beneficio,SC2MAESTR01,30
 sofoctceco001,Maestro de Centros de Costo,SC2MAESTR01,45
 sofoctcelo001,Maestros de Centros Logisticos,SC2MAESTR01,25
 sofoctempl001,Maestro de Empleados,SC2GASTOS01,
-sofoctgaam001,Importaci髇 de Depreciaci髇 de Activos Fijos,SC3HISTOR01,15
-sofoctgrpc001,Maestro de Grupo Plan Cuenta Aplicaci髇,SC2MAESTR01,
+sofoctgaam001,Importaci贸n de Depreciaci贸n de Activos Fijos,SC3HISTOR01,15
+sofoctgrpc001,Maestro de Grupo Plan Cuenta Aplicaci贸n,SC2MAESTR01,
 sofoctgrpr001,Maestro de Grupos de Productos,SC2MAESTR01,10
 sofoctimaf001,Maestro de Activos Fijos,SC3HISTOR01,20
 sofoctimba001,Maestro de Bancos,SC2MAESTR01,90
-sofoctimdi001,Maestro de Divisi髇,SC1ESTRUC01,20
-sofoctimfo001,Importaci髇 de Forecast,SC3HISTOR01,5
+sofoctimdi001,Maestro de Divisi贸n,SC1ESTRUC01,20
+sofoctimfo001,Importaci贸n de Forecast,SC3HISTOR01,5
 sofoctimve001,Maestro de Variante de Ejercicio,SC2MAESTR01,
 sofoctjecb001,Maestro de Jerarquia de Centro de Beneficio,SC2MAESTR01,35
 sofoctjecc001,Maestro de Jerarquia de Centro de Costo,SC2MAESTR01,50
 sofoctjepc001,Maestro de Jerarquia de Plan de Cuenta,SC2MAESTR01,80
-sofoctlp001,Configuraci髇 T閏nica,SC1CONFIG01,5
+sofoctlp001,Configuraci贸n T茅cnica,SC1CONFIG01,5
 sofoctmaap001,Manejo de Aplicaciones,SC9MAUSER01,
 sofoctmabq001,Manejo de Bloqueos Administrador,SC9MAUSER01,
 sofoctmara001,Manejo de Relaciones de Apps - RoleCollection,SC9MAUSER01,
 sofoctmarc001,Manejo de RoleCollections,SC9MAUSER01,
 sofoctmaus001,Manejo de Usuarios,SC9MAUSER01,
-sofoctmaus002,Actualizaci髇 Usuario,SC9MAUSER01,
+sofoctmaus002,Actualizaci贸n Usuario,SC9MAUSER01,
 sofoctofve001,Maestro de Oficinas de Ventas,SC2MAESTR01,5
-sofoctorve001,Maestro de Organizaci髇 de Ventas,SC1ESTRUC01,5
-sofoctpclg001,Maestro de Productos por Centros Log韘ticos,SC2MAESTR01,40
+sofoctorve001,Maestro de Organizaci贸n de Ventas,SC1ESTRUC01,5
+sofoctpclg001,Maestro de Productos por Centros Log铆sticos,SC2MAESTR01,40
 sofoctplcu001,Maestro de Plan de Cuenta,SC2MAESTR01,75
 sofoctsoco001,Maestro de Sociedad CO,SC1ESTRUC01,10
 sofoctsofi001,Maestro de Sociedad FI,SC1ESTRUC01,15
@@ -35,71 +35,71 @@ sofotxgarh001,Consolidado de Gastos de RRHH,SC2GASTOS01,
 sofotximgn001,Manejo de Gastos No Distribuibles,SC2GASTOS01,
 sofotximgn002,Consolidado de Gastos No Distribuibles,SC2GASTOS01,
 sofotxgdal001,Manejo de Gastos Distribuibles,SC2GASTOS01,
-sofoctgdbi001,Importaci髇 de Gastos de Bioseguridad (Deprecada),SC3HISTOR01,
-sofoctagru001,Maestro de Agrupaci髇,SC4PARAME01,15
+sofoctgdbi001,Importaci贸n de Gastos de Bioseguridad (Deprecada),SC3HISTOR01,
+sofoctagru001,Maestro de Agrupaci贸n,SC4PARAME01,15
 sofoctsniv001,Segmentos de Niveles de Material,SC2MAESTR01,15
 sofotxrhhe001,Manejo de Horas Extras,SC2GASTOS01,
 sofotxrhhe002,Consulta de Horas Extras,SC5CONSOL01,
 sofoctrhco001,Maestro de Parametros de RRHH,SC4PARAME01,5
 sofotxrega001,Resumen de Gastos,SC5CONSOL01,
 sofoctclac001,Clase de Activos Fijos,SC2MAESTR01,85
-sofoctpago001,Manejo de Par醡etros,SC4PARAME01,20
-sofocttcno001,Maestro de Conceptos de Tecnolog韆,SC4PARAME01,10
-sofotxtcno001,Manejo de Gastos de Tecnolog韆,SC2GASTOS01,
+sofoctpago001,Manejo de Par谩metros,SC4PARAME01,20
+sofocttcno001,Maestro de Conceptos de Tecnolog铆a,SC4PARAME01,10
+sofotxtcno001,Manejo de Gastos de Tecnolog铆a,SC2GASTOS01,
 sofoctlogs001,Historial de Actividades,SC9MAUSER01,
 sofotxgdal002,Consolidado de Gastos Distribuibles,SC5CONSOL01,
-sofotxtcno002,Consulta de Gastos de Tecnolog韆,SC5CONSOL01,
+sofotxtcno002,Consulta de Gastos de Tecnolog铆a,SC5CONSOL01,
 sofotxgarh002,Consulta de Gastos de RRHH,SC5CONSOL01,
-sofoctgprd001,Importaci髇 de Costeo (Deprecada),SC3HISTOR01,
+sofoctgprd001,Importaci贸n de Costeo (Deprecada),SC3HISTOR01,
 sofoctmabq002,Manejo de Bloqueos de Usuarios,SC9MAUSER01,
-sofounipro001,Unidades de Producci髇,SC1CONFIG01,10
+sofounipro001,Unidades de Producci贸n,SC1CONFIG01,10
 sofocthoru001,Maestro de Hojas de Ruta,SC2MAESTR01,65
 sofoctprod001,Maestro de Productos,SC2MAESTR01,20
 sofoctimlm001,Maestro de Lista de Materiales,SC2MAESTR01,70
 sofoctasce001,Asociaciones de Centros y Unidades Productivas,SC2MAESTR01,55
-sofoupmaup001,Maestro de Unidades de Producci髇,SC2MAESTR01,60
+sofoupmaup001,Maestro de Unidades de Producci贸n,SC2MAESTR01,60
 sofocttpgt001,Mantenimiento de Tipos de Gastos,SC2MAESTR01,
-sofoctimga001,Importaci髇 Global de Gastos,SC3HISTOR01,10
+sofoctimga001,Importaci贸n Global de Gastos,SC3HISTOR01,10
 sofotxcomi001,Manejo de Comisiones,SC2GASTOS01,
 sofoupeqrp001,Manejo de Esquemas de Reparto de CeCos,SC2PARCOS01,
 sofoupfaba001,Formulacion de Alimentos Balanceados,SC3PARPRO01,
 sofoctrgpm001,Registro de Precio de Materiales,SC2PARCOS01,
 sofouprqmp001,Requerimiento de Materia Prima (Compras),SC4MOVINV01,5
-sofoupimab001,Importaci髇 de Consumo para Formulaci髇 ABA,SC3PARPRO01,
-sofouprqpp001,Requerimiento de Producci髇 Plantas Procesadoras,SC4MOVINV01,10
+sofoupimab001,Importaci贸n de Consumo para Formulaci贸n ABA,SC3PARPRO01,
+sofouprqpp001,Requerimiento de Producci贸n Plantas Procesadoras,SC4MOVINV01,10
 sofoupesco001,Esquema de Consumo,SC3PARPRO01,
 sofoupcoma001,Consumo de Materiales de Formulas de Alimentos,SC4MOVINV01,15
 sofoupcoma002,Consumo de Materiales Productivos,SC4MOVINV01,20
 sofoupcoma003,Consumo de Materiales de Libras,SC4MOVINV01,25
-sofouprqpa001,Requerimientos de Producci髇 Av韈ola,SC4MOVINV01,30
+sofouprqpa001,Requerimientos de Producci贸n Av铆cola,SC4MOVINV01,30
 sofotxinve001,Consulta Inversiones,SC1INVERS01,25
-sofotxprin001,Proyecto de Inversi髇,SC1INVERS01,5
+sofotxprin001,Proyecto de Inversi贸n,SC1INVERS01,5
 sofolpinve001,Inversiones,SC1CONFIG01,15
-sofouptapr001,C醠culo de Tarifa Presupuestaria,SC4COSTEO01,10
+sofouptapr001,C谩lculo de Tarifa Presupuestaria,SC4COSTEO01,10
 sofoupinvp001,Inventario de Productos Terminados,SC4MOVINV01,35
 sofotxninv001,Necesidades de Inversiones,SC1INVERS01,15
 sofotxobpr001,Obras en Proceso,SC1INVERS01,10
 sofoupagar001,Calculo de Agotamiento,SC4COSTEO01,20
 sofoctprov001,Maestro de Proveedores,SC2MAESTR01,
-sofotxpain001,Propuesta de pago inversi髇,SC1INVERS01,30
+sofotxpain001,Propuesta de pago inversi贸n,SC1INVERS01,30
 sofoupcopt001,Costeo de Productos Terminados,SC4COSTEO01,30
 sofoupvind001,Variables para Indicadores de Produccion,SC3PARPRO01,0
 sofoupinpr001,Indicadores de Produccion por Area,SC3PARPRO01,5
 sofotxmaco001,Maestro de Colectores,SC2MAESTR01,
-sofotxeepi001,Evaluaci髇 Econ髆ica de Proyectos,SC1INVERS01,20
+sofotxeepi001,Evaluaci贸n Econ贸mica de Proyectos,SC1INVERS01,20
 sofouptras001,Traslado de Materiales,SC4MOVINV01,40
-sofotxcaaf001,Capitalizaci髇 de Activos Fijos,SC1INVERS01,35
-sofotxdeaf001,Depreciaci髇 de Activos Fijos,SC1INVERS01,40
+sofotxcaaf001,Capitalizaci贸n de Activos Fijos,SC1INVERS01,35
+sofotxdeaf001,Depreciaci贸n de Activos Fijos,SC1INVERS01,40
 sofoupcwip001,Consulta de Cuentas WIP,SC4COSTEO01,40
 sofoupcwip002,Costos para WIP,SC4COSTEO01,45
 sofocttmup001,Asociaciones de Tipos de Material y Unidades Productivas,SC2MAESTR01,57
 sofocttpgn001,Maestro de Tipo de Genetica,SC2MAESTR01,58
 sofolpende001,Endeudamiento,SC1CONFIG01,20
 sofoedgafi001,Maestro de Gastos Financieros,SC1ENDEUS01,5
-sofoedlicr001,Maestro de L韒ite de Cr閐itos,SC1ENDEUS01,10
-sofoedprlh001,Prestamos de L韓ea Hipotecaria,SC1ENDEUS01,15
-sofoedprlf001,Prestamos de L韓ea Fiduciaria,SC1ENDEUS01,20
-sofoedprlp001,Prestamos de L韓ea Prendaria,SC1ENDEUS01,25
+sofoedlicr001,Maestro de L铆mite de Cr茅ditos,SC1ENDEUS01,10
+sofoedprlh001,Prestamos de L铆nea Hipotecaria,SC1ENDEUS01,15
+sofoedprlf001,Prestamos de L铆nea Fiduciaria,SC1ENDEUS01,20
+sofoedprlp001,Prestamos de L铆nea Prendaria,SC1ENDEUS01,25
 sofoedoten001,Otros Endeudamientos,SC1ENDEUS01,30
 sofoedsafi001,Saldos en Financiamientos,SC1ENDEUS01,35
 sofoeddeen001,Desembolsos por Endeudamientoes,SC1ENDEUS01,40

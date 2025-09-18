@@ -2,11 +2,11 @@ createdat,createdby,modifiedat,modifiedby,codigo,descripcion,tipoperiodo_codigo,
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,ABA,Alimentos Balanceados,,,,,t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,DES,Desarrollo,SEM,24,ABA,"[""ABA""]",t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,POS,Postura,SEM,43,DES,"[""DES"",""ABA""]",t
-2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,INC,Incubación,SEM,3,POS,"[""POS"",""DES"",""ABA""]",t
+2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,INC,IncubaciÃ³n,SEM,3,POS,"[""POS"",""DES"",""ABA""]",t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,ENG,Engorde,DIA,30,INC,"[""INC"",""POS"",""DES"",""ABA""]",t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,PPP,Plan de Proceso,,,ENG,"[""ENG"",""INC"",""POS"",""DES"",""ABA""]",t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,PPH,Plan de Harina,,,PPP,"[""PPP"",""ENG"",""INC"",""POS"",""DES"",""ABA""]",t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,ADMON,Administracion,,,,,t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,CADSUM,Cadena de Suministro,,,,,t
 2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,COMER,Comercializacion,,,,,t
-2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,AYD,Almacén y Despacho,,,,,t
+2025-07-21 14:19:11.933,anonymous,2025-07-21 14:19:11.933,anonymous,AYD,AlmacÃ©n y Despacho,,,,,t

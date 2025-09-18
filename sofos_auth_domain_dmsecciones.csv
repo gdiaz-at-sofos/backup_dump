@@ -1,11 +1,11 @@
 codigo,tipo,titulo,index
 SCLAUNCH001,tx,Launchpad             ,0
-SC1CONFIG01,tx,Configuración Técnica ,5
+SC1CONFIG01,tx,ConfiguraciÃ³n TÃ©cnica ,5
 SC2GASTOS01,tx,Gastos                ,20
 SC3FORECA01,tx,Forecast              ,15
 SC4PRESUP01,tx,Presupuesto           ,
 SC5CONSOL01,tx,Consultas             ,10
-SC6SIMULA01,tx,Simulación            ,
+SC6SIMULA01,tx,SimulaciÃ³n            ,
 SC1ESTRUC01,ct,Estructura            ,5
 SC2MAESTR01,ct,Operacional           ,15
 SC3HISTOR01,ct,Historicos            ,10
@@ -13,8 +13,8 @@ SC4PARAME01,ct,Parametros            ,20
 SC9PARAME01,ct,Parametrizaciones     ,
 SC9MAUSER01,ct,Manejo de Usuarios    ,25
 SC1UNIPRO01,up,Unidades de Produccion,
-SC2PARCOS01,up,Parámetros de Costeo  ,10
-SC3PARPRO01,up,Parámetros de Producción,15
+SC2PARCOS01,up,ParÃ¡metros de Costeo  ,10
+SC3PARPRO01,up,ParÃ¡metros de ProducciÃ³n,15
 SC4MOVINV01,up,Movimientos de Inventario,5
 SC4COSTEO01,up,Costo de Productos,20
 SC1INVERS01,in,Inversiones,
